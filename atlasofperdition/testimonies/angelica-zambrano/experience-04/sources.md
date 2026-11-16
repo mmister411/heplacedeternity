@@ -1,0 +1,18 @@
+# AZ-04 — Source register
+
+**Instance:** Angelica Zambrano's fourth reported experience.
+
+| ID | Type | Source | Source status |
+|---|---|---|---|
+| AZ04-TXT-EN-01 | English written account | [Angelica Zambrano 4 — HeavenVisit](https://www.heavenvisit.net/angelica-zambrano-4.html) | The narrative explicitly describes itself as **parts** of the fourth experience. |
+| AZ04-TXT-EN-02 | English written reproduction | [Fourth Testimony — Christ Is Coming](https://christiscoming.net/2015/03/27/angelica-zambranos-4th-experience-of-heaven-and-hell/) | Extended account labeled fourth; published 27 March 2015. Publication date is not proof of event date. |
+| AZ04-TXT-EN-03 | English written reproduction | [The 4th Book of Angelica Zambrano — Divinebase](https://divinebase.com/The%20Book%20Of%20Angelica%20Zambrano%204.htm) | Another written presentation of the fourth account; version independence unestablished. |
+| AZ04-TXT-ES-01 | Spanish text | [Cuarta Experiencia — BibliaTodo](https://www.bibliatodo.com/TestimoniosCristianos/angelica-zambrano-cuarta-experiencia/amp/) | Fourth-experience narrative, pending comparison with audiovisual testimony. |
+| AZ04-AV-01 | Video lead | [Cuarta Experiencia — Metatube](https://www.metatube.com/es/videos/275231/CUARTA-EXPERIENCIA-ANGELICA-ZAMBRANO-EN-EL-CIELO-E-INFIERNO/) | Labeled fourth experience; verify recording content and provenance. |
+| AZ04-AV-02 | Video lead | [Angelica Zambrano fourth experience — YouTube](https://www.youtube.com/watch?v=j8sKk7aQ7No) | Video ID linked in a compilation of all four experiences; not independently checked. |
+
+**Completeness warning:** The source opens by saying the witness is telling **part** of the fourth experience. Do not relabel this as a complete transcript without examining an independent full recording or original-language source.
+
+**Version control:** Fourth-experience mirrors are versions of AZ-04. The date **27 March 2015** is a publication date for one written presentation, not necessarily the visionary episode's date.
+
+**Copy status:** Full third-party text linked, not mirrored. **Atlas inclusion:** not authorized.
