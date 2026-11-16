@@ -13,6 +13,7 @@ This directory contains the working source-anchored survey, scene inventory, cla
 - `Atlas_of_Perdition_Roads_Descent_Thresholds_Evidence_Audit.md` — third close-reading audit of four route-and-threshold motifs, with boundary and transit distinctions.
 - `Atlas_of_Perdition_Torment_Recurring_Operations_Evidence_Audit.md` — fourth close-reading audit of six torment motifs, with eight mapping corrections and two source-description corrections.
 - `Atlas_of_Perdition_Taxonomic_Architecture.md` — 10 primary divisions and 71 second-order subclasses, with definitions, boundaries, and examples.
+- `Atlas_of_Perdition_Inclusion_Criteria.md` — Atlas Inclusion Measure (0–4 or U), qualifying reported infernal content independently of source acquisition.
 
 ## Structured indexes and working data
 
