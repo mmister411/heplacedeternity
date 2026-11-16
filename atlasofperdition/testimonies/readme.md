@@ -9,4 +9,4 @@ This area will collect files and maybe folders regarding collection of visions, 
 
 These are research leads, not permission-cleared source copies. No new phenomena have yet been ingested into the Atlas apparatus from these leads.
 
-**Atlas qualification** is determined separately by the [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md), not by whether a transcript is available. Prospects begin unassessed until a relevant account passage can be evaluated.
+**Atlas qualification** is determined separately by the [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md), not by whether a transcript is available. Prospects begin unassessed until a relevant account passage can be evaluated. **Only the Atlas author/user may approve specific testimony material for inclusion.** An AIM score or located transcript does not confer approval.
