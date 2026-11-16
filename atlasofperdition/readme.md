@@ -1,0 +1,1 @@
+The Atlas of Perdition is a member in the He Place Eternity collection covering scripture holds and what perhaps modern day, God-enabled Daniel, Job or Lazarus may have seen regarding the mechanic, margins, and menace of being cast into perdition. 
