@@ -34,6 +34,12 @@ The file `source_discovery_register.tsv` records the exact name as listed, provi
 
 **No third-party testimony text has been copied into this public repository.** Availability online is not itself a redistribution license. The right to republish each complete text or transcript remains to be established, or an authorized copy must be supplied.
 
+## Atlas inclusion is a separate decision
+
+The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) scores **infernal descriptive yield** at the passage/scene level on `0–4` or `U` for unassessed. It does not score whether a transcript, audio file, or licensed copy is already on hand. Score **3–4** signals descriptive eligibility; actual admission of a phenomenon requires an attributable source anchor.
+
+Every prospect in this discovery register is currently `U`. The two already-ingested witnesses retain their existing records and are marked `legacy_ingested_unscored` pending retrospective assessment. Search-result topic hints in this register are **not** AIM scores.
+
 ## Before promoting a lead into the Atlas
 
 1. Open the linked source and identify the actual speaker, title, format, and account boundaries.
