@@ -1,0 +1,29 @@
+# AZ-01 — Source register
+
+**Scope:** Angelica Zambrano's **first** reported experience. Links are copies or leads for the *same experience*, not separate visionary events.
+
+## Written testimony sources
+
+| ID | Format / language | Source | Assessment |
+|---|---|---|---|
+| AZ01-TXT-EN-01 | English, edited transcription | [Angelica Zambrano Testimony in English — Encinar de Mamré](https://www.encinardemamre.com/Angelica-Zambrano-testimony-in-English.html) | The page presents the first experience with Angelica and Maxima's account. It says the English text was transcribed from a Spanish video and was **edited and minimally abridged**. Full readable text; not a verbatim original-language record. |
+| AZ01-TXT-EN-02 | English, unpolished transcription lead | [Original English Translation — SpiritLessons / DivineRevelations](https://www.divinerevelations.info/Documents/Prepare_to_meet_your_God/Original_English_Translation.doc) | Linked from the first English host as an *unpolished verbatim English video transcription*. Retrieval and comparison are **pending**; link alone does not establish completeness or fidelity. |
+| AZ01-TXT-ES-01 | Spanish, extended published page | [Testimonio de Angelica Zambrano — MCreveil](https://www.mcreveil.org/Espagnol/infierno/angelica_es.php) | Full narrative and separately authored editorial/theological commentary on the same page. Distinguish the reported testimony from the host's commentary. |
+| AZ01-TXT-EN-03 | English, extended published page | [Testimony of Angelica Zambrano — MCreveil](https://www.mcreveil.org/Anglais/hell/angelica_en.php) | Extended English presentation containing the witness narrative and editorial commentary. Not a wholly independent experience. |
+| AZ01-TXT-ES-02 | Spanish, written-text listing | [Testimonio ... Escrito «solo texto» — BibliaTodo](https://www.bibliatodo.com/TestimoniosCristianos/testimonio-de-testimonio-de-angelica-zambrano-escrito-solo-texto/) | First-testimony text lead; site returned an access restriction during this inspection. Text not verified here. |
+| AZ01-TXT-EN-04 | English, formatted reproduction | [Angelica Zambrano Mora's First Testimony — End Times Blog](https://spaceforswashbuckling.blogspot.com/2019/08/angelica-zambrano-moras-first-1st.html) | Specifically labels the first experience; reproduction adds pagination/layout. Treat as another account of the same episode. |
+
+## Recording / originating performance leads
+
+- [Spanish testimony and videos index — Encinar de Mamré](https://www.encinardemamre.com/testimonio-de-angelica-zambrano.html), which explicitly separates the first, second, third, and fourth testimony entries.
+- [First-testimony English version and video access](https://www.encinardemamre.com/Angelica-Zambrano-testimony-in-English.html). The page says its voice-over video is a word-for-word English translation of an original Spanish-language video. Original recording provenance and equivalence have not been independently checked.
+
+## Reuse and provenance
+
+The Encinar de Mamré English page expressly invites copying and says the posted testimony has no copyrights. That is a **publisher's claim**, not an independently verified chain of rights for the spoken account, translation, or images. The full third-party transcription has therefore **not** been mirrored into this public GitHub repository. The full text remains accessible at the URLs above.
+
+The **7 November 2009** event date and **23-hour** duration are published claims in the testimony materials; neither was independently verified. Other experiences attributed to Angelica require separate records.
+
+**Research boundary:** These texts are collected testimony sources, not adopted findings. In particular, assertions about the eternal state of named real people are allegations attributed to the narrative.
+
+**Atlas inclusion:** No authorization sought or granted; all Atlas inclusion requires explicit author/user approval.
