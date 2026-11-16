@@ -10,6 +10,7 @@ This directory contains the working source-anchored survey, scene inventory, cla
 - `Atlas_of_Perdition_Cross_Witness_Concordance.md` — 43 recurring motif families, with differences retained.
 - `Atlas_of_Perdition_Cells_Chambers_Evidence_Audit.md` — first close-reading audit, comparing seven testimony units and recording one corrected cross-witness motif assignment.
 - `Atlas_of_Perdition_Pits_Shafts_Recesses_Evidence_Audit.md` — second close-reading audit of seven testimony units, with source-level distinctions and pit-motif corrections.
+- `Atlas_of_Perdition_Roads_Descent_Thresholds_Evidence_Audit.md` — third close-reading audit of four route-and-threshold motifs, with boundary and transit distinctions.
 - `Atlas_of_Perdition_Taxonomic_Architecture.md` — 10 primary divisions and 71 second-order subclasses, with definitions, boundaries, and examples.
 
 ## Structured indexes and working data
