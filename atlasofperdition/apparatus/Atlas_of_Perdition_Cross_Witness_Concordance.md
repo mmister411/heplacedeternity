@@ -22,7 +22,7 @@ Source record IDs below resolve to exact line numbers and descriptive properties
 | Shared motif | Units | Record IDs | Contours |
 |---|---:|---|---|
 | **Cells and custodial rooms** | 7 | BRE-010, MEL-004, MEL-015, MEL-020, MEL-022, MEL-026, BAX-023, BAX-024, BAX-030, BAX-060, BAX-079, BAX-080, AZ1-004, AZ1-027, AZ2-003, AZ2-005, AZ4-005, WIE-001, WIE-002, MEL-029, MEL-034 | Cells vary from excavated clay rooms to individualized deceptive environments and stacked circular tiers. |
-| **Pits, shafts and recesses** | 6 | MEL-016, BAX-013, BAX-014, BAX-088, BAX-097, PER-008, WIE-014, KNI-001, PUR-001, PUR-002, PUR-013, WIE-029 | Pits vary in dimensions and arrangement; source-specific measurements remain with entries. |
+| **Pits, shafts and recesses** | 5 | MEL-016, BAX-013, BAX-014, BAX-097, PER-008, WIE-014, PUR-001, PUR-002, PUR-013, WIE-029 | Pits vary in dimensions and arrangement; source-specific measurements remain with entries. |
 | **Lakes, rivers and liquid fire** | 7 | BRE-012, BAX-033, BAX-034, BAX-035, BAX-090, BAX-095, PAR-004, APY-003, WIE-014, KNI-005, PUR-002, PUR-017, PUR-037 | The material is variously described as lava, brimstone, blood and fire, or hot liquid. |
 | **Regional segmentation and depth** | 7 | BRE-006, MEL-015, MEL-025, BAX-012, BAX-022, BAX-029, BAX-030, BAX-052, BAX-075, BAX-088, AZ3-010, PAR-006, WIE-021, PAR-013, PUR-034 | Not all accounts use the same geometry: anatomy, circles, cells and levels coexist as reports. |
 | **Animate architecture and living substrate** | 3 | BAX-076, BAX-079, PUR-003, PUR-012, PUR-027, PUR-028, MEL-030 | The reported substrate may breathe, move, pull, or consist of living organisms; sources differ in how much agency they ascribe to it. |
