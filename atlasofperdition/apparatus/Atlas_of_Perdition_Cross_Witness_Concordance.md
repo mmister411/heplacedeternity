@@ -12,10 +12,10 @@ Source record IDs below resolve to exact line numbers and descriptive properties
 
 | Shared motif | Units | Record IDs | Contours |
 |---|---:|---|---|
-| **Descending tunnel, pit or fall** | 10 | BRE-001, BAX-002, PER-001, AZ1-002, AZ2-009, AZ3-011, FER-001, WIE-001, KNI-001, PUR-001 | The means and degree of descent differ, but downward transit is repeatedly emphasized. |
+| **Descending tunnel, pit or fall** | 8 | BRE-001, BAX-002, PER-001, AZ1-002, AZ2-009, FER-001, KNI-001, PUR-001 | The units describe tunneled travel, revolving descent, rapid falling or felt downward movement; sudden placement and gate-only entry remain distinct. |
 | **Vortices and spinning funnels** | 2 | MEL-001, MEL-012, BAX-001, BAX-002 | Baxter describes funnels protruding from earth; Melvin describes vortex-like delivery into cells. |
 | **Gates, doors and ruptured thresholds** | 7 | BRE-007, MEL-010, DAN-001, PER-001, FER-006, BAX-040, BAX-075, BAX-097, AZ3-011, FER-012 | Doors range from ordinary-looking gates to chained portals and an apparently torn horizon. |
-| **Wide roads and branching paths** | 7 | BRE-019, MEL-011, BAX-019, PER-003, APY-008, APY-009, AZ1-024, FER-013, APY-013 | Some roads are processions; others divide into morally labeled routes. |
+| **Wide roads and branching paths** | 5 | BRE-019, MEL-011, BAX-019, PER-003, APY-008, APY-009, APY-013 | Accounts include wide streets, a signed fork, a dusty delivery road, an entry road and a winding path between pits; chained tunnel processions are treated separately. |
 
 ## Structures
 
