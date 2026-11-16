@@ -6,8 +6,12 @@ This directory groups material by the **reported experience**, not merely by the
 
 ## Indexed experiences
 
-- [Experience 01 — first reported visit to Heaven and Hell](experience-01/readme.md): reported date **7 November 2009**; text and media sources located.
-- Further reported experiences: not yet collected into this witness's directories. Do not create numbered records until individual experience boundaries have been checked.
+- [AZ-01 — First reported visit](experience-01/readme.md): Heaven and Hell; an English transcription host dates the event to **7 November 2009**, while another compilation reports **2008**. Date conflict is not resolved.
+- [AZ-02 — Second reported visit](experience-02/readme.md): Heaven and Hell; the HeavenVisit transcription dates the event to **4 January 2010** (unverified).
+- [AZ-03 — Third reported visit](experience-03/readme.md): Heaven and Hell, including the reported **heart of Hell**; event date not securely established.
+- [AZ-04 — Fourth reported visit](experience-04/readme.md): spiritual-condition imagery and further reported infernal scenes; the located English telling explicitly describes itself as **partial**.
+
+Each experience has a **source register** and a **working outline**. Multiple web copies and translations are recorded as versions of a single experience, not as additional experiences.
 
 ## Catalog policy
 
