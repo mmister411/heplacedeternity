@@ -1,0 +1,1 @@
+It's been a long road listening, searching, researching, compiling, trying this or that format, gather this snippet here and there, into this note taking app or that one.  This folder will serve to gather scraps or old files to inherit from. This can also be where scrawlings and ramblings can go. 
