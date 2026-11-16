@@ -4,7 +4,7 @@
 |---|---|
 | Witness | Angelica Elizabeth Zambrano Mora |
 | Experience | First reported visit to Hell and Heaven |
-| Reported event date | 7 November 2009 (according to an English transcription host; unverified independently) |
+| Reported event date | 7 November 2009 according to an English transcription host; another compilation gives 7 November 2008; conflicting published years remain unresolved |
 | Reported duration | Approximately 23 hours (testimony's description, not independent confirmation) |
 | Original-language account | Spanish-language video testimony reported by transcription hosts |
 | English-language text | Full narrative hosted online in a transcription that identifies itself as **edited and minimally abridged** |
