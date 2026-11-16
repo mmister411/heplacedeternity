@@ -66,12 +66,12 @@ Source record IDs below resolve to exact line numbers and descriptive properties
 
 | Shared motif | Units | Record IDs | Contours |
 |---|---:|---|---|
-| **Tearing, spearing and mutilation** | 6 | BRE-017, PER-007, PER-008, WIE-009, WIE-010, PUR-006, PUR-020, BAX-055, BAX-078, AZ1-019, AZ1-020, WIE-031, PUR-025 | The operations use different implements and body targets. |
-| **Repetition without terminal death** | 9 | MEL-021, MEL-023, DAN-005, BAX-017, BAX-065, BAX-071, AZ1-021, AZ2-017, AZ3-012, AZ3-020, PER-007, PUR-010, PUR-011, PUR-018, WIE-018, MEL-031, PUR-036 | Some cycles are described as staged scenarios; others as bodily destruction and restoration. |
-| **Earthly roles repeatedly enacted** | 5 | BAX-044, BAX-046, AZ1-021, AZ2-017, AZ3-012, AZ3-018, AZ3-021, MEL-021, MEL-033 | Ministry, singing, drunkenness, rivalry or staged victimization may continue as activities within punishment. |
-| **Witness temporarily subjected to torment** | 4 | BAX-104, BAX-105, BAX-111, BAX-112, AZ2-018, AZ2-019, AZ2-020, WIE-031, PUR-022, PUR-025, PUR-028, PUR-032 | The visitor's posture changes from observer to threatened or bodily affected participant; the incidents remain distinct. |
-| **Punishment corresponding to acts** | 4 | MEL-019, MEL-024, DAN-008, AZ3-002, AZ3-005, AZ3-013, AZ3-018, AZ3-021, PAR-008, MEL-033 | The stated relation ranges from reciprocal atrocity to moral attribution by a speaker. |
-| **Personalized or assigned confinement** | 4 | MEL-020, MEL-026, BRE-018, BAX-023, AZ4-005, MEL-034 | Includes tailored rooms, intended cells and asserted differentiated severity. |
+| **Tearing, spearing and mutilation** | 6 | BRE-017, PER-007, PER-008, WIE-009, WIE-010, PUR-006, BAX-055, BAX-078, AZ1-019, AZ1-020, WIE-031, PUR-025 | Physical laceration, impalement, crushing and bodily loss are compared as operations; forced submersion without penetration is not counted as spearing. |
+| **Repetition without terminal death** | 9 | MEL-021, MEL-023, DAN-005, BAX-017, BAX-065, AZ1-021, AZ2-017, AZ3-020, PER-007, PUR-010, PUR-011, PUR-018, WIE-018, MEL-031, PUR-036 | Cycles, reconstitution, compelled continuance, renewed attacks and reset scenes are distinguished; one advancing fire wave and a single preaching scene do not establish a loop. |
+| **Earthly roles reflected or reenacted** | 5 | BAX-044, BAX-046, AZ1-021, AZ2-017, AZ3-012, AZ3-018, AZ3-021, MEL-021, MEL-033 | Earlier occupations, habits or roles appear as continuing behavior or as tailored scenery; a single depiction does not establish an endless repetition. |
+| **Witness temporarily subjected to torment** | 4 | BAX-104, BAX-105, BAX-111, BAX-112, AZ2-018, AZ2-019, AZ2-020, WIE-031, PUR-028, PUR-032 | The witness undergoes direct restraint, injury, deprivation, isolation, or hostile force; observing suffering bodies alone does not count as personally undergoing it. |
+| **Punishment corresponding to acts** | 3 | MEL-019, MEL-024, DAN-008, AZ3-002, AZ3-005, AZ3-013, AZ3-018, AZ3-021, MEL-033 | Reported conduct is linked to torment, condemnation or a staged setting; a classification of deeds without an applied punishment is excluded. |
+| **Personalized or assigned confinement** | 2 | MEL-020, MEL-026, AZ4-005, MEL-034 | An individualized or named holding place, assigned cell or tailored interior is described; general severity and block dimensions are separate. |
 
 ## Consciousness
 
