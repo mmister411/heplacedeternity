@@ -36,9 +36,9 @@ The file `source_discovery_register.tsv` records the exact name as listed, provi
 
 ## Atlas inclusion is a separate decision
 
-The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) scores **infernal descriptive yield** at the passage/scene level on `0–4` or `U` for unassessed. It does not score whether a transcript, audio file, or licensed copy is already on hand. Score **3–4** signals descriptive eligibility; actual admission of a phenomenon requires an attributable source anchor.
+The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) scores **infernal descriptive yield** at the passage/scene level on `0–4` or `U` for unassessed. It does not score whether a transcript, audio file, or licensed copy is already on hand. Score **3–4** supports a recommendation only. **Actual Atlas inclusion requires explicit approval by the Atlas author/user**, in addition to an attributable source anchor. Neither a high score nor possession of a transcript confers that approval.
 
-Every prospect in this discovery register is currently `U`. The two already-ingested witnesses retain their existing records and are marked `legacy_ingested_unscored` pending retrospective assessment. Search-result topic hints in this register are **not** AIM scores.
+Every prospect in this discovery register is currently `U`. The two already-ingested witnesses retain their existing records and are marked `legacy_ingested_unscored` pending retrospective assessment. Search-result topic hints in this register are **not** AIM scores. The new approval fields remain `not_requested` for newly discovered prospects. The two pre-existing corpus names carry `pre_protocol_not_recorded`: this reports that a decision under the newly established approval protocol has not been documented, without changing their existing records.
 
 ## Before promoting a lead into the Atlas
 
@@ -47,6 +47,7 @@ Every prospect in this discovery register is currently `U`. The two already-inge
 3. Preserve a permitted source artifact and record the origin, its language or version when known, and its degree of mediation (direct testimony, transcript, translation, summary, interview).
 4. Segment narrative units and extract source-anchored claims with the established knowledge modes.
 5. Assign stable identifiers without renumbering existing Atlas records; classify new phenomena and review cross-witness motifs.
-6. Validate indexes and document unresolved identity, provenance, or textual questions.
+6. Prepare a precise inclusion proposal for the Atlas author/user; **do not modify the Atlas register without their explicit approval**.
+7. After approval, validate indexes and document unresolved identity, provenance, or textual questions.
 
 **Collection status:** source discovery only. **Phenomena added to Atlas:** zero. **Existing 426 records changed:** zero.
