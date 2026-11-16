@@ -1,7 +1,7 @@
 # Atlas of Perdition — Torment and Recurring Operations: Evidence Audit 04
 
 **Working edition:** 16 November 2026  
-**Status:** Close reading of source passages represented by six torment motif families, including 57 distinct register records resolved to 52 passage lines.  
+**Status:** Close reading of source passages represented by six torment motif families, including 51 distinct register records resolved to 47 passage lines.  
 **Primary source:** Pasted text(20261116-025409).txt, numbered from the first line of the supplied compilation.  
 **Scope:** Actions and instruments; bodily and sensory consequences; ongoing or cyclic operations; reenacted earthly roles; temporary suffering reported by witnesses; attributed judicial correspondence; and individualized custodial settings.
 
