@@ -4,7 +4,7 @@ This area will collect files and maybe folders regarding collection of visions, 
 
 ## Person collections
 
-- [Angelica Zambrano](angelica-zambrano/readme.md) — [first reported experience (AZ-01)](angelica-zambrano/experience-01/readme.md): written accounts and source leads collected; no Atlas admission.
+- [Angelica Zambrano](angelica-zambrano/readme.md) — **four separately reported experiences (AZ-01 to AZ-04)**, each with source register and working account outline; no Atlas admission.
 
 The collection is organized by **person → distinct reported experience → textual or recorded account/version**. Multiple tellings or translations of one experience are source versions, not new experiences. Possession of a source in this archive does not amount to inclusion in the authored Atlas.
 
