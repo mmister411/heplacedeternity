@@ -208,7 +208,7 @@ Source line numbers refer to `Pasted text(20261116-025409).txt` in the user's co
 | MEL-030 | BEI / O | **Cell props are demons**: In the simulated revival cell, the chairs and other props themselves are demonic beings. | 2031 |  |
 | MEL-031 | OPR / O | **Cell scenery changes with treadmill effect**: The interior setting shifts while the victim runs without escaping a physically small enclosure. | 2031 |  |
 | MEL-032 | BEI / O | **Hoofed taloned intruder**: A cloven-hoofed being with talons descends through the roof of the revival scene. | 2031 |  |
-| MEL-033 | OPR / O | **Professor repeatedly writing on blackboard**: A professor is shown writing at a board as part of his punishment scene. | 2030 |  |
+| MEL-033 | OPR / O | **Professor writing at blackboard**: A professor is seen writing on a blackboard; the narrator connects the scene to the ideas he taught on earth. | 2030 |  |
 | MEL-034 | CUS / O | **Open enlarged cell furnished with chair**: The witness sees a cell assigned to himself, larger and open, containing something like a dentist's chair. | 2038 |  |
 | MEL-035 | ENV / F | **Ground trembles beneath approaching presence**: The arrival of a presence is accompanied by shaking ground and audible or felt footsteps. | 2039 |  |
 
@@ -341,7 +341,7 @@ Source line numbers refer to `Pasted text(20261116-025409).txt` in the user's co
 | AZ3-015 | BOD / S | **Body bursts on arrival**: A confined singer reports that his body exploded on landing after tunnel descent and worms emerged. | 3194 |  |
 | AZ3-016 | OPR / O | **Serpents torture former pastor's wife**: Snakes torment a former minister's wife while she invokes her prior status. | 3215 |  |
 | AZ3-017 | BEI / O | **Demon appearing as woman**: A demon beside a pastor appears to him in the form of a woman. | 3238 | 2 Corinthians 11:14 (A) |
-| AZ3-018 | OPR / O | **Feigning drink in torment**: A pastor repeatedly gestures as if holding alcohol while appearing drunk. | 3236 |  |
+| AZ3-018 | OPR / O | **Feigning drink in torment**: A pastor gestures as though drinking and appears drunk; the narration says that behavior continues from earthly life. | 3236 |  |
 | AZ3-019 | OPR / H | **Demons accuse woman of missed calling**: Demons accuse a woman of lost souls as a consequence of disobeying a ministerial call. | 3254 |  |
 | AZ3-020 | OPR / O | **Continual fistfighting in flames**: Two men fight each other and others join while demons torment them with flames. | 3287 |  |
 | AZ3-021 | JUD / S | **Fighting repeats earthly rivalry**: A man in the fight says his earthly competition for money and congregants persists after death. | 3293 |  |
