@@ -6,6 +6,7 @@ locate passages, never as independent evidence for a phenomenon.
 """
 
 from collections import Counter, defaultdict
+import csv
 import json
 from pathlib import Path
 
@@ -13,13 +14,14 @@ from atlas_sift import SECTIONS, SOURCE
 
 ROOT = Path(__file__).resolve().parent
 SEED = ROOT / "atlas_phenomena_seed.tsv"
+POE_REGISTER = ROOT.parent.parent / "poe_register.tsv"
 JSONL = ROOT / "Atlas_of_Perdition_Phenomena_Register.jsonl"
 REPORT = ROOT / "Atlas_of_Perdition_Phenomena_Register.md"
 MOTIF_SEED = ROOT / "atlas_motif_families.tsv"
 CONCORDANCE = ROOT / "Atlas_of_Perdition_Cross_Witness_Concordance.md"
 
 SOURCE_MAP = {sid: (name, first, last) for sid, name, first, last in SECTIONS}
-HEADER = "source_id\ttaxon\tlemma\tmode\tdescription\tanchor\tline_hint\tscripture\tcorrespondence"
+HEADER = "source_id\tpoe_id\ttaxon\tlemma\tmode\tdescription\tanchor\tline_hint\tscripture\tcorrespondence"
 TAXA = {
     "ENT": "Entrance and transition",
     "TOP": "Topography and structures",
@@ -50,6 +52,9 @@ CORRESPONDENCES = {
 
 
 def read_curated():
+    with POE_REGISTER.open(encoding="utf-8", newline="") as handle:
+        accepted_poes = {row["poe_id"] for row in csv.DictReader(handle, delimiter="\t")
+                         if row["decision_status"] == "valid"}
     src_lines = SOURCE.read_text(encoding="utf-8-sig").splitlines()
     seed_lines = SEED.read_text(encoding="utf-8").splitlines()
     assert seed_lines[0] == HEADER
@@ -60,9 +65,11 @@ def read_curated():
         if not text.strip() or text.lstrip().startswith("#"):
             continue
         parts = text.split("\t")
-        if len(parts) != 9:
-            raise ValueError(f"Seed line {raw_index} has {len(parts)} fields, expected 9")
-        sid, taxon, lemma, mode, desc, anchor, hint, scripture, relation = [v.strip() for v in parts]
+        if len(parts) != 10:
+            raise ValueError(f"Seed line {raw_index} has {len(parts)} fields, expected 10")
+        sid, poe_id, taxon, lemma, mode, desc, anchor, hint, scripture, relation = [v.strip() for v in parts]
+        if poe_id not in accepted_poes:
+            raise ValueError(f"POE not accepted for seed line {raw_index}: {poe_id}")
         if sid not in SOURCE_MAP:
             raise ValueError(f"Unrecognized source at seed line {raw_index}: {sid}")
         if taxon not in TAXA or mode not in MODES or relation not in CORRESPONDENCES:
@@ -80,6 +87,7 @@ def read_curated():
         counters[sid] += 1
         items.append({
             "id": f"{sid}-{counters[sid]:03d}",
+            "poe_id": poe_id,
             "source_id": sid,
             "source": name,
             "source_line": line,
