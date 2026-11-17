@@ -16,3 +16,6 @@ Both reported journeys appear in the linked accounts. Source variants share the 
 - The HeavenVisit lead was unavailable (502 response) at the last check. Retain the URL as a discovery lead.
 - The [combined working compilation text](compilation-extract.en.txt) and [individual journeys](experience-01/compilation-extract.en.txt) are preserved locally. External editions remain linked above; their wording has not yet been collated.
 - The historical `FER` corpus unit and its 13 phenomena are documented in the [survey](../../apparatus/Atlas_of_Perdition_Corpus_Survey.md); division between journeys is pending source-level collation.
+## Matching published wording
+
+- **FER:** [Prepare for the Lord's Return!, Bernarda Fernandez English two-journey PDF](https://www.freedvdtracts.com/documents/Bernadda_Fernandez_Prepare_for_the_Lords_Return.pdf). First-journey lead-in and 'THIS IS THE TESTIMONY OF MY FIRST JOURNEY' plus second-journey section. Archive attribution: [recorded source](https://heavenvisit.com/Bernada_Fernandez.php). Alternate: [reading copy](https://freecdtracts.com/Testimony/bernarda_fernandez.html). The Insights of God PDF has a different editorial lead-in; the FreeDVDTracts PDF matches the compilation lead-in.

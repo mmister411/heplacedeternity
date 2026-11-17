@@ -9,6 +9,9 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
 - The [editorial summary](editorial-summary.en.compilation.txt) preceding the first-person account is preserved separately.
-- Working compilation reference for `ALB` is indexed at lines 2226–2281, with related text at 2178–2225 (editorial summary). Its exact base edition has not been collated against the linked items.
+- Working compilation reference for `ALB` is indexed at lines 2226–2281, with related text at 2178–2225 (editorial summary). A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **ALB:** [I Walked in Hell, Free CD Tracts transcription](https://freecdtracts.com/Testimony/Aline_Baxley.htm). Heading THE ACCIDENT and opening 'I received the Lord in my life when I was eleven years old'; 'left the church' wording. Archive attribution: [recorded source](https://heavenvisit.com/Aline_Baxley_2.php). Alternate: [reading copy](https://www.insightsofgod.com/downloads/aline_baxleyhell.pdf). Original cited HeavenVisit PHP link did not fetch; the PDFs differ slightly ('left church') in the first paragraph.

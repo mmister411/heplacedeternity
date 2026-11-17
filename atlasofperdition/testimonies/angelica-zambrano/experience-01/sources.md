@@ -27,3 +27,6 @@ The **23-hour** duration and dates are published claims, not independently verif
 **Research boundary:** These texts are collected testimony sources, not adopted findings. In particular, assertions about the eternal state of named real people are allegations attributed to the narrative.
 
 **Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.
+## Matching published wording
+
+- **AZ1:** [Angelica Zambrano, 23 Hours Dead!, first English rendering](https://www.heavenvisit.net/angelica-zambrano.html). Heading and 23-hour introductory passage; Maxima interview and named prisoners. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano.html). Alternate: [reading copy](https://www.eti-ministries.org/hell/visits-to-hell/angelica-zambrano). The alternate site reproduces the first testimony; its editorial framing is not identical to the heading.

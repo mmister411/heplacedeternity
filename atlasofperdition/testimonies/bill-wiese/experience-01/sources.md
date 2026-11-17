@@ -11,5 +11,8 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `WIE` is indexed at lines 3856–4194. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `WIE` is indexed at lines 3856–4194. A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **WIE:** [23 Minutes in Hell, Kansas City oral-transcript PDF](https://www.insightsofgod.com/downloads/bill_wiese_23_minutes_in_hell_englishpdf.pdf). Announcer introduction 'You're going to hear the vision of Hell' and audio-transcript framing. Archive attribution: [recorded source](http://www.heavenvisit.net/bill-wiese2.html). Alternate: [reading copy](https://gojes.us/pdf/bill_wiese_23_minutes_in_hell_english_text.pdf). This is the speech transcription of the Kansas City presentation, not the separate commercial book.

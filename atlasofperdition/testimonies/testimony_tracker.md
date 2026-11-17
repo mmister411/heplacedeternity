@@ -2,7 +2,7 @@
 
 This tracker connects people, reported optasiological experiences, accounts, source artifacts, scenes, and the phenomena described within them. It also records decisions about material proposed for the *Atlas of Perdition*.
 
-The [source discovery register](source_discovery_register.tsv) holds initial leads, including the collector's 59-name list. Person folders contain collected texts and other source material. A discovery ID (PROS-001, etc.) identifies a lead; it does not necessarily identify a distinct witness or experience.
+The [matching-edition register](edition_match_register.md) identifies published wording close to the archived compilation. The [source discovery register](source_discovery_register.tsv) holds initial leads, including the collector's 59-name list. Person folders contain collected texts and other source material. A discovery ID (PROS-001, etc.) identifies a lead; it does not necessarily identify a distinct witness or experience.
 
 ## Record model
 

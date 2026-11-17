@@ -10,5 +10,8 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `BRE` is indexed at lines 3546–3617. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `BRE` is indexed at lines 3546–3617. A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **BRE:** [Rescued from Hell, Insights of God English PDF](https://www.insightsofgod.com/downloads/carmelo_brenes_englishpdf.pdf). Church of God of the Full Gospel introduction and 'In the year of 1982' wording. Archive attribution: [recorded source](https://www.insightsofgod.com/html_testimonies/carmelo_brenes.htm). The cited HTML version uses 'Our Church' / 'In 1982', so the PDF is the closer English edition.

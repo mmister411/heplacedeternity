@@ -16,3 +16,6 @@
 **Copy status:** The website's English written account is archived as [transcript.en.published.md](transcript.en.published.md). The publisher invites sharing. Recording-language comparison remains pending.
 
 **Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.
+## Matching published wording
+
+- **AZ3:** [Angelica Zambrano 3, third experience, English video text](https://www.heavenvisit.net/angelica-zambrano-3.html). Prayer-and-fasting heading and 'my loyal friend, the Holy Spirit' opening. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano-3.html). Original indexed page preserves distinctive wording; no independently accessible full-text mirror verified in this pass.

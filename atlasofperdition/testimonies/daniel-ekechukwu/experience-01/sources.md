@@ -10,6 +10,10 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
 - The [shorter retelling](retelling-02.en.compilation.txt) is also preserved in full.
-- Working compilation reference for `DAN` is indexed at lines 306–349, with related text at 4249–4303 (DA2, shorter mediated retelling). Its exact base edition has not been collated against the linked items.
+- Working compilation reference for `DAN` is indexed at lines 306–349, with related text at 4249–4303 (DA2, shorter mediated retelling). A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **DAN:** [Richard Kent and Val Fotherby, Beyond the Final Frontier, Daniel Ekechukwu chapter](https://drrichardkent.org/wp-content/uploads/2015/07/beyond_the_final_frontier_e_book.pdf). Opening summary and sequence of first-person account; distinctive 'Take this file and record everything you see' passage. Archive attribution: [recorded source](http://www.blazingfireministries.org/daniele.html). Alternate: [reading copy](https://www.insightsofgod.com/downloads/beyond_the_final_frontier_%28free_e_book%29.pdf). The compilation cites a now-unverified Blazing Fire webpage; the corresponding passage is preserved in the Kent/Fotherby book.
+- **DAN-DA2:** [CBN, Daniel: Raised from the Dead, by Susan Mann and Ken Hulme](https://secure.cbn.com/700club/features/amazing/raised_from_dead091603.aspx?option=print). Opening account of November 30, 2001 accident and multiple subsequent quoted passages. Archive attribution: [recorded source](https://heavenvisit.com/Daniel_Ekechukwu.php). A second editorial retelling of DAN-01, not a second reported event.

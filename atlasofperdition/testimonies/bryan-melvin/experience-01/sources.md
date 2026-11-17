@@ -1,6 +1,6 @@
 # MEL-01 — Source documents and versions
 
-**Witness:** Bryan Melvin. **Reported material:** Reported near-death encounter narrated in A Land Unknown: Hell's Dominion.
+**Witness:** Bryan Melvin. **Reported material:** An account of his reported near-death encounter, reproduced in multiple publications. The collector's excerpt follows the Destiny Image article linked below.
 
 | Account / source ID | Source | Medium and language | Extent / provenance |
 |---|---|---|---|
@@ -10,6 +10,9 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `MEL` is indexed at lines 2009–2042. Its exact base edition has not been collated against the linked items.
-- The hosted *In a Land Unknown* PDF is external book material. The earlier compilation contains only an excerpt; do not call it complete.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `MEL` is indexed at lines 2009–2042. A matching published edition is identified below; complete textual collation is pending.
+- The hosted *In a Land Unknown* PDF is external book material. The earlier compilation contains only an excerpt.
+## Matching published wording
+
+- **MEL:** [Destiny Image, He Died & Saw Hitler in Hell, excerpt credited to Randy Kay and Shaun Tabatt](https://www.destinyimage.com/blog/randy-kay-shaun-tabatt-he-died-saw-hitler-in-hell). Identical introductory paragraph and distinctive 'lizard breath' / doorway passages. The compilation is this anthology excerpt, not a demonstrated excerpt from Melvin's In a Land Unknown; source text itself identifies a book by Kay and Tabatt.

@@ -10,5 +10,8 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `APY` is indexed at lines 3676–3775. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `APY` is indexed at lines 3676–3775. A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **APY:** [Athet Pyan Shinthaw Paul, HeavenVisit English translation](https://heavenvisit.com/Athet_Pyan_Shinthaw_Paul.php). Title and 'translation of a taped testimony' introductory paragraph. Archive attribution: [recorded source](https://heavenvisit.com/Athet_Pyan_Shinthaw_Paul.php). Alternate: [reading copy](https://www.identitynetwork.net/apps/articles/default.asp?articleid=22162&blogid=0&fldAuthor=&fldKeywords=&fldTopic=0&link=1&view=post). Identity Network hosts the same translated introductory wording; distinguish editors' preface from witness testimony.

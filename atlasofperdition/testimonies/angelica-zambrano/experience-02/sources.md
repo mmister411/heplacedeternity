@@ -16,3 +16,6 @@
 **Copy status:** The site's English published account is archived as [transcript.en.published.md](transcript.en.published.md); its publisher invites readers to share the testimony. Spanish comparison remains pending.
 
 **Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.
+## Matching published wording
+
+- **AZ2:** [Angelica Zambrano 2, second experience, English video text](https://www.heavenvisit.net/angelica-zambrano-2.html). Jan. 4, 2010 time line and 'the media arrived' opening. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano-2.html). Alternate: [reading copy](https://fcflasu.wordpress.com/2012/06/26/angelica-zambranos-2nd-experience-in-heaven-and-hell/). Alternate WordPress page reproduces the same opening of the second experience.

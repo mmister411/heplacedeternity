@@ -10,5 +10,8 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `PAR` is indexed at lines 3618–3671. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `PAR` is indexed at lines 3618–3671. A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **PAR:** [Young Moon Park, HeavenVisit English page](https://heavenvisit.com/Young_Moon_Park.php). April 3, 1986 opening and horse-drawn carriage narrative. Archive attribution: [recorded source](https://heavenvisit.com/Young_Moon_Park.php). Alternate: [reading copy](https://christiscoming.net/2017/01/01/testimony-of-heaven-hell-by-young-moon-park-atheist-wake-up-call/). Alternate current full-text reproduction is accessible.

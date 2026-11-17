@@ -8,5 +8,8 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `PUR` is indexed at lines 4304–4474. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `PUR` is indexed at lines 4304–4474. A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **PUR:** [A Visit to Hell, reproduced on Ecency by seyiodus](https://ecency.com/@seyiodus/aaron-purser-a-visit-to-hell). PRELUDE and 26 June 2013 description of four companions and descending hole. Archive attribution: [recorded source](https://spiritreports.blogspot.com/2019/01/aaron-purser.html). Original Spirit Reports attribution is not accessible to the fetcher; Ecency is a later repost with matching opening.

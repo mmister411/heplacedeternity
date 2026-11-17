@@ -18,3 +18,6 @@
 **Copy status:** The website's English published telling is archived as [transcript.en.partial.md](transcript.en.partial.md). Its author/publisher invites sharing; this version explicitly narrates only part of the experience.
 
 **Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.
+## Matching published wording
+
+- **AZ4:** [Angelica Zambrano 4, fourth experience, English text](https://www.heavenvisit.net/angelica-zambrano-4.html). 'Amgelica' byline, fourth-experience introduction, and first greeting. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano-4.html). Alternate: [reading copy](https://divinebase.com/The%20Book%20Of%20Angelica%20Zambrano%204.htm). The Divinebase text has matching subject and opening but modernized punctuation.

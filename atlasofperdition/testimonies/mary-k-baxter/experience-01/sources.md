@@ -11,6 +11,9 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `BAX` is indexed at lines 350–2008. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `BAX` is indexed at lines 350–2008. A matching published edition is identified below; complete textual collation is pending.
 - Publisher record: Whitaker House, *A Divine Revelation of Hell*, first edition 1993, ISBN 9780883682791. The publisher's commercial edition remains separately identified from the collector-supplied compilation extract.
+## Matching published wording
+
+- **BAX:** [A Divine Revelation of Hell, hosted book PDF](https://www.divinerevelations.info/dvd/Individual_Files_for_DVD/PDF/a_divine_revelation_of_hell.pdf). Foreword beginning 'Marcus Bach stated' and chapter structure. Archive attribution: divinerevelations.info (domain named in compilation). Alternate: [reading copy](https://www.insightsofgod.com/downloads/divinerevelationofhellbook.pdf). Book-level text; the collector's compilation may contain layout or transcription changes.

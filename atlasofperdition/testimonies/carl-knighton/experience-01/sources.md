@@ -10,5 +10,8 @@
 
 ## Holdings
 
-- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
-- Working compilation reference for `KNI` is indexed at lines 4195–4248. Its exact base edition has not been collated against the linked items.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract preserves the collector's wording. A matching published edition is identified below; complete textual collation is pending.
+- Working compilation reference for `KNI` is indexed at lines 4195–4248. A matching published edition is identified below; complete textual collation is pending.
+## Matching published wording
+
+- **KNI:** [CBN, A Wake-up Call from Hell, by Michelle Wilson](https://cbn.com/article/not-selected/wake-call-hell). Opening 'Hell is definitely real. Real. Very much real.' and Valium-overdose description. Archive attribution: [recorded source](http://www.heavenvisit.net/carl-knighton.html). Alternate: [reading copy](https://cbn.com/video/700-club/wake-call-hell). A media article with witness quotations, not a first-person transcript.
