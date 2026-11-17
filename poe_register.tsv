@@ -1,18 +1,18 @@
 poe_id	record_kind	witness	historical_corpus_unit	source_path	experience_record	decision_status	decision_date	decision_note
-AZ-01	experience	Angelica Zambrano	AZ1	atlasofperdition/testimonies/angelica-zambrano/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-01/readme.md	pending		
-AZ-02	experience	Angelica Zambrano	AZ2	atlasofperdition/testimonies/angelica-zambrano/experience-02/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-02/readme.md	pending		
-AZ-03	experience	Angelica Zambrano	AZ3	atlasofperdition/testimonies/angelica-zambrano/experience-03/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-03/readme.md	pending		
-AZ-04	experience	Angelica Zambrano	AZ4	atlasofperdition/testimonies/angelica-zambrano/experience-04/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-04/readme.md	pending		
-DAN-01	experience	Daniel Ekechukwu	DAN	atlasofperdition/testimonies/daniel-ekechukwu/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/daniel-ekechukwu/experience-01/readme.md	pending		
-BAX-W01	source_work	Mary K. Baxter	BAX	atlasofperdition/testimonies/mary-k-baxter/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/mary-k-baxter/experience-01/readme.md	pending		
-MEL-01	experience	Bryan Melvin	MEL	atlasofperdition/testimonies/bryan-melvin/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/bryan-melvin/experience-01/readme.md	pending		
-PER-01	experience	Jennifer Perez	PER	atlasofperdition/testimonies/jennifer-perez/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/jennifer-perez/experience-01/readme.md	pending		
-ALB-01	experience	Aline Baxley	ALB	atlasofperdition/testimonies/aline-baxley/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/aline-baxley/experience-01/readme.md	pending		
-BRE-01	experience	Carmelo Brenes	BRE	atlasofperdition/testimonies/carmelo-brenes/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/carmelo-brenes/experience-01/readme.md	pending		
-PAR-01	experience	Young Moon Park	PAR	atlasofperdition/testimonies/young-moon-park/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/young-moon-park/experience-01/readme.md	pending		
-APY-01	experience	Athet Pyan Shinthaw Paulu	APY	atlasofperdition/testimonies/athet-pyan-shinthaw-paulu/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/athet-pyan-shinthaw-paulu/experience-01/readme.md	pending		
-FER-01	experience	Bernarda Fernández	FER	atlasofperdition/testimonies/bernarda-fernandez/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/bernarda-fernandez/experience-01/readme.md	pending		
-FER-02	experience	Bernarda Fernández	FER	atlasofperdition/testimonies/bernarda-fernandez/experience-02/compilation-extract.en.txt	atlasofperdition/testimonies/bernarda-fernandez/experience-02/readme.md	pending		
-WIE-01	experience	Bill Wiese	WIE	atlasofperdition/testimonies/bill-wiese/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/bill-wiese/experience-01/readme.md	pending		
-KNI-01	experience	Carl Knighton	KNI	atlasofperdition/testimonies/carl-knighton/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/carl-knighton/experience-01/readme.md	pending		
-PUR-01	experience	Aaron Purser	PUR	atlasofperdition/testimonies/aaron-purser/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/aaron-purser/experience-01/readme.md	pending		
+AZ-01	experience	Angelica Zambrano	AZ1	atlasofperdition/testimonies/angelica-zambrano/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-01/readme.md	valid		
+AZ-02	experience	Angelica Zambrano	AZ2	atlasofperdition/testimonies/angelica-zambrano/experience-02/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-02/readme.md	valid		
+AZ-03	experience	Angelica Zambrano	AZ3	atlasofperdition/testimonies/angelica-zambrano/experience-03/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-03/readme.md	valid		
+AZ-04	experience	Angelica Zambrano	AZ4	atlasofperdition/testimonies/angelica-zambrano/experience-04/compilation-extract.en.txt	atlasofperdition/testimonies/angelica-zambrano/experience-04/readme.md	valid		
+DAN-01	experience	Daniel Ekechukwu	DAN	atlasofperdition/testimonies/daniel-ekechukwu/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/daniel-ekechukwu/experience-01/readme.md	valid		
+BAX-W01	source_work	Mary K. Baxter	BAX	atlasofperdition/testimonies/mary-k-baxter/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/mary-k-baxter/experience-01/readme.md	valid		
+MEL-01	experience	Bryan Melvin	MEL	atlasofperdition/testimonies/bryan-melvin/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/bryan-melvin/experience-01/readme.md	valid		
+PER-01	experience	Jennifer Perez	PER	atlasofperdition/testimonies/jennifer-perez/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/jennifer-perez/experience-01/readme.md	valid		
+ALB-01	experience	Aline Baxley	ALB	atlasofperdition/testimonies/aline-baxley/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/aline-baxley/experience-01/readme.md	valid		
+BRE-01	experience	Carmelo Brenes	BRE	atlasofperdition/testimonies/carmelo-brenes/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/carmelo-brenes/experience-01/readme.md	valid		
+PAR-01	experience	Young Moon Park	PAR	atlasofperdition/testimonies/young-moon-park/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/young-moon-park/experience-01/readme.md	valid		
+APY-01	experience	Athet Pyan Shinthaw Paulu	APY	atlasofperdition/testimonies/athet-pyan-shinthaw-paulu/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/athet-pyan-shinthaw-paulu/experience-01/readme.md	valid		
+FER-01	experience	Bernarda Fernández	FER	atlasofperdition/testimonies/bernarda-fernandez/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/bernarda-fernandez/experience-01/readme.md	valid		
+FER-02	experience	Bernarda Fernández	FER	atlasofperdition/testimonies/bernarda-fernandez/experience-02/compilation-extract.en.txt	atlasofperdition/testimonies/bernarda-fernandez/experience-02/readme.md	valid		
+WIE-01	experience	Bill Wiese	WIE	atlasofperdition/testimonies/bill-wiese/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/bill-wiese/experience-01/readme.md	valid		
+KNI-01	experience	Carl Knighton	KNI	atlasofperdition/testimonies/carl-knighton/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/carl-knighton/experience-01/readme.md	valid		
+PUR-01	experience	Aaron Purser	PUR	atlasofperdition/testimonies/aaron-purser/experience-01/compilation-extract.en.txt	atlasofperdition/testimonies/aaron-purser/experience-01/readme.md	valid		
