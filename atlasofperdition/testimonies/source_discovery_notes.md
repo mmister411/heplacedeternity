@@ -32,7 +32,7 @@ The topic or relevance field is only a triage cue derived from a linked title, s
 
 The file `source_discovery_register.tsv` records the exact name as listed, provisional discovery status, source-type hints, and up to two URL leads per name. These links are citations or access routes, not repository-hosted copies of the linked works.
 
-**No third-party testimony text has been copied into this public repository.** Availability online is not itself a redistribution license. The right to republish each complete text or transcript remains to be established, or an authorized copy must be supplied.
+**Subsequent collection update:** Four hosted English versions of Angelica Zambrano's first through fourth reported experiences are now copied into [her witness folder](angelica-zambrano/readme.md), with source URLs, version notes, and explicit copy/share invitations from the hosting publishers. This is a later ingestion step, separate from the 59-name first-pass discovery register; the fourth published telling is explicitly partial. No Atlas inclusion was approved. Other public leads remain mere pointers until their content is separately acquired.
 
 ## Atlas inclusion is a separate decision
 
@@ -50,4 +50,4 @@ Every prospect in this discovery register is currently `U`. The two already-inge
 6. Prepare a precise inclusion proposal for the Atlas author/user; **do not modify the Atlas register without their explicit approval**.
 7. After approval, validate indexes and document unresolved identity, provenance, or textual questions.
 
-**Collection status:** source discovery only. **Phenomena added to Atlas:** zero. **Existing 426 records changed:** zero.
+**Original first-pass status:** source discovery only. **Later testimony collection:** four Zambrano English texts archived. **Phenomena added to Atlas from these intakes:** zero. **Existing 426 Atlas records changed:** zero.
