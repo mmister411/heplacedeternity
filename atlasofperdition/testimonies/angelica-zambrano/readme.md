@@ -1,20 +1,14 @@
-# Angelica Elizabeth Zambrano Mora — testimony collection
+# Angelica Elizabeth Zambrano Mora
 
-Witness: **Angelica Elizabeth Zambrano Mora** (also published as Angelica Zambrano / Angélica Zambrano).
+Also published as **Angelica Zambrano** and **Angélica Zambrano**.
 
-This directory groups material by the **reported experience**, not merely by the person or by the number of websites reproducing an account. Separate recordings, translations, editions, and retellings of one experience are versions of that experience, not additional experiences.
+The four reported experiences are filed separately. Recordings, translations, editions, and retellings of the same experience are kept together.
 
 ## Indexed experiences
 
-- [AZ-01 — First reported visit](experience-01/readme.md): Heaven and Hell; an English transcription host dates the event to **7 November 2009**, while another compilation reports **2008**. Date conflict is not resolved.
-- [AZ-02 — Second reported visit](experience-02/readme.md): Heaven and Hell; the HeavenVisit transcription dates the event to **4 January 2010** (unverified).
-- [AZ-03 — Third reported visit](experience-03/readme.md): Heaven and Hell, including the reported **heart of Hell**; event date not securely established.
-- [AZ-04 — Fourth reported visit](experience-04/readme.md): spiritual-condition imagery and further reported infernal scenes; the located English telling explicitly describes itself as **partial**.
+- [AZ-01: First reported visit](experience-01/readme.md): Heaven and Hell; an English transcription host dates the event to **7 November 2009**, while another compilation reports **2008**. Date conflict is not resolved.
+- [AZ-02: Second reported visit](experience-02/readme.md): Heaven and Hell; the HeavenVisit transcription dates the event to **4 January 2010**.
+- [AZ-03: Third reported visit](experience-03/readme.md): Heaven and Hell, including the reported **heart of Hell**; event date not securely established.
+- [AZ-04: Fourth reported visit](experience-04/readme.md): spiritual-condition imagery and further reported infernal scenes; the located English telling explicitly describes itself as **partial**.
 
-Each experience now has a **locally archived English published account**, a **source register**, and a **working outline**. AZ-01 is identified by its host as edited and minimally abridged; AZ-04's narrator explicitly says the telling covers only part of that experience. Multiple web copies and translations are recorded as versions of a single experience, not as additional experiences.
-
-## Catalog policy
-
-This is a **testimony collection**. The material has not been admitted to the authored *Atlas of Perdition*. Collection and source analysis do not constitute Atlas author approval. Any future Atlas inclusion requires the author/user's explicit approval.
-
-Accounts contain reported observations and attributed speech. Their presence here records what the witnesses said; it does not establish the historical, theological, or factual truth of the report.
+Each experience folder contains an English transcript, source information, and an account outline. The publisher identifies the AZ-01 English text as edited and minimally abridged; the available AZ-04 text covers only part of the fourth experience.
