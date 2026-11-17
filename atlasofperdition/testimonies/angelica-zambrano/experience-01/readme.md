@@ -9,10 +9,12 @@
 | Original-language account | Spanish-language video testimony reported by transcription hosts |
 | English-language text | Full narrative hosted online in a transcription that identifies itself as **edited and minimally abridged** |
 | Source status | Written testimony located and linked; transcription accuracy against video not verified |
-| Collection status | Collected as source records and reading outline; no full third-party text reproduced in this repository |
+| Collection status | Edited English translation archived as [transcript.en.edited.md](transcript.en.edited.md); original-language comparison pending |
 | Atlas disposition | **Not included; author/user approval required** |
 
 ## Collected materials
+
+- [Archived English edited transcript](transcript.en.edited.md) — hosted publisher invites copying and sharing; page text captured with website links/images normalized.
 
 - [Sources and version distinctions](sources.md): full-text reading links, video/transcription leads, mediation and permissions notes.
 - [Account outline](account-outline.md): navigable, paraphrased outline of reported events and observations. It is not a transcript and not an Atlas phenomenon extraction.
