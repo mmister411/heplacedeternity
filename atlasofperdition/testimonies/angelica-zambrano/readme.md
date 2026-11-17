@@ -11,7 +11,7 @@ This directory groups material by the **reported experience**, not merely by the
 - [AZ-03 — Third reported visit](experience-03/readme.md): Heaven and Hell, including the reported **heart of Hell**; event date not securely established.
 - [AZ-04 — Fourth reported visit](experience-04/readme.md): spiritual-condition imagery and further reported infernal scenes; the located English telling explicitly describes itself as **partial**.
 
-Each experience has a **source register** and a **working outline**. Multiple web copies and translations are recorded as versions of a single experience, not as additional experiences.
+Each experience now has a **locally archived English published account**, a **source register**, and a **working outline**. AZ-01 is identified by its host as edited and minimally abridged; AZ-04's narrator explicitly says the telling covers only part of that experience. Multiple web copies and translations are recorded as versions of a single experience, not as additional experiences.
 
 ## Catalog policy
 
