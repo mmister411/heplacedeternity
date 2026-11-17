@@ -1,18 +1,18 @@
-poe_id	record_kind	witness	historical_corpus_unit	sources	experience_record	decision_status	decision_date	decision_note
-AZ-01	experience	Angelica Zambrano	AZ1	["atlasofperdition/testimonies/angelica-zambrano/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/angelica-zambrano/experience-01/readme.md	valid		
-AZ-02	experience	Angelica Zambrano	AZ2	["atlasofperdition/testimonies/angelica-zambrano/experience-02/compilation-extract.en.txt"]	atlasofperdition/testimonies/angelica-zambrano/experience-02/readme.md	valid		
-AZ-03	experience	Angelica Zambrano	AZ3	["atlasofperdition/testimonies/angelica-zambrano/experience-03/compilation-extract.en.txt"]	atlasofperdition/testimonies/angelica-zambrano/experience-03/readme.md	valid		
-AZ-04	experience	Angelica Zambrano	AZ4	["atlasofperdition/testimonies/angelica-zambrano/experience-04/compilation-extract.en.txt"]	atlasofperdition/testimonies/angelica-zambrano/experience-04/readme.md	valid		
-DAN-01	experience	Daniel Ekechukwu	DAN	["atlasofperdition/testimonies/daniel-ekechukwu/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/daniel-ekechukwu/experience-01/readme.md	valid		
-BAX-W01	source_work	Mary K. Baxter	BAX	["atlasofperdition/testimonies/mary-k-baxter/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/mary-k-baxter/experience-01/readme.md	valid		
-MEL-01	experience	Bryan Melvin	MEL	["atlasofperdition/testimonies/bryan-melvin/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/bryan-melvin/experience-01/readme.md	valid		
-PER-01	experience	Jennifer Perez	PER	["atlasofperdition/testimonies/jennifer-perez/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/jennifer-perez/experience-01/readme.md	valid		
-ALB-01	experience	Aline Baxley	ALB	["atlasofperdition/testimonies/aline-baxley/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/aline-baxley/experience-01/readme.md	valid		
-BRE-01	experience	Carmelo Brenes	BRE	["atlasofperdition/testimonies/carmelo-brenes/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/carmelo-brenes/experience-01/readme.md	valid		
-PAR-01	experience	Young Moon Park	PAR	["atlasofperdition/testimonies/young-moon-park/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/young-moon-park/experience-01/readme.md	valid		
-APY-01	experience	Athet Pyan Shinthaw Paulu	APY	["atlasofperdition/testimonies/athet-pyan-shinthaw-paulu/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/athet-pyan-shinthaw-paulu/experience-01/readme.md	valid		
-FER-01	experience	Bernarda Fernández	FER	["atlasofperdition/testimonies/bernarda-fernandez/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/bernarda-fernandez/experience-01/readme.md	valid		
-FER-02	experience	Bernarda Fernández	FER	["atlasofperdition/testimonies/bernarda-fernandez/experience-02/compilation-extract.en.txt"]	atlasofperdition/testimonies/bernarda-fernandez/experience-02/readme.md	valid		
-WIE-01	experience	Bill Wiese	WIE	["atlasofperdition/testimonies/bill-wiese/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/bill-wiese/experience-01/readme.md	valid		
-KNI-01	experience	Carl Knighton	KNI	["atlasofperdition/testimonies/carl-knighton/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/carl-knighton/experience-01/readme.md	valid		
-PUR-01	experience	Aaron Purser	PUR	["atlasofperdition/testimonies/aaron-purser/experience-01/compilation-extract.en.txt"]	atlasofperdition/testimonies/aaron-purser/experience-01/readme.md	valid
+poe_id	legacy_id	witness	title	summary	record_kind	decision_status	decision_date	decision_note
+POE-000001	AZ-01	Angelica Zambrano	Reported experience 01		experience	valid		
+POE-000002	AZ-02	Angelica Zambrano	Reported experience 02		experience	valid		
+POE-000003	AZ-03	Angelica Zambrano	Reported experience 03		experience	valid		
+POE-000004	AZ-04	Angelica Zambrano	Reported experience 04		experience	valid		
+POE-000005	DAN-01	Daniel Ekechukwu	Reported experience		experience	valid		
+POE-000006	BAX-W01	Mary K. Baxter	A Divine Revelation of Hell (source work)		source_work	valid		
+POE-000007	MEL-01	Bryan Melvin	Reported experience		experience	valid		
+POE-000008	PER-01	Jennifer Perez	Reported experience		experience	valid		
+POE-000009	ALB-01	Aline Baxley	Reported experience		experience	valid		
+POE-000010	BRE-01	Carmelo Brenes	Reported experience		experience	valid		
+POE-000011	PAR-01	Young Moon Park	Reported experience		experience	valid		
+POE-000012	APY-01	Athet Pyan Shinthaw Paulu	Reported experience		experience	valid		
+POE-000013	FER-01	Bernarda Fernández	First reported journey		experience	valid		
+POE-000014	FER-02	Bernarda Fernández	Second reported journey		experience	valid		
+POE-000015	WIE-01	Bill Wiese	Reported experience		experience	valid		
+POE-000016	KNI-01	Carl Knighton	Reported experience		experience	valid		
+POE-000017	PUR-01	Aaron Purser	Reported experience		experience	valid		
