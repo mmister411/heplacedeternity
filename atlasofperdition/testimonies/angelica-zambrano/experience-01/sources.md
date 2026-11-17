@@ -20,7 +20,7 @@
 
 ## Reuse and provenance
 
-The Encinar de Mamré English page expressly invites copying and says the posted testimony has no copyrights. That is a **publisher's claim**, not an independently verified chain of rights for the spoken account, translation, or images. The full third-party transcription has therefore **not** been mirrored into this public GitHub repository. The full text remains accessible at the URLs above.
+The Encinar de Mamré English page expressly invites copying and says the posted testimony has no copyrights. That is a **publisher's claim**, not an independently verified chain of rights for the spoken account, translation, or images. A copy of the hosted English edited, minimally abridged transcription is now archived in this public repository as [transcript.en.edited.md](transcript.en.edited.md), under the host's stated copying/sharing invitation. The source URL remains the reference for verification.
 
 The **23-hour** duration and dates are published claims, not independently verified. The English transcription host gives **7 November 2009**, while [this later four-experience compilation](https://henrytanlife.blogspot.com/2016/10/testimonies-of-angelica-zambrano.html) gives **7 November 2008** for the first experience. The year is unresolved; do not silently harmonize the accounts. Other experiences attributed to Angelica require separate records.
 
