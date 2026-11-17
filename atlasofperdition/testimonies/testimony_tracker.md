@@ -12,10 +12,12 @@ The [source discovery register](source_discovery_register.tsv) holds initial lea
 | Experience | One reported occurrence, which may include several settings or encounters. Use a stable ID; do not create a new event for each retelling. | AZ-01 through AZ-04 |
 | Account | A particular telling, interview, translation, transcription, or edition of one or more experiences. | AZ-01/A1 |
 | Source artifact | An identifiable file, page, recording, image, or manuscript carrying an account. | AZ-01 transcript file |
+| Working corpus unit | A bounded section of an existing compilation, sometimes containing more than one experience or account. | DAN, BAX, AZ1, FER, etc. |
 | Scene or passage | A bounded portion of an account, identified by page, paragraph, line, or timestamp. | Assign a segment ID when indexed |
 | Reported feature | A being, place, structure, implement, action, condition, sensory quality, speech, transition, or other feature within one account scene. | Assign a source-local observation ID |
 | Motif or type | A recurring feature category used to connect observations across accounts without treating them as the same occurrence. | Link related observations by motif ID |
 | Relation | A source-anchored connection among records or described elements. | A scene describes a passageway leading to a chamber |
+| Processing authorization | The author's permission to perform specified analysis on identified collected material. | Record scope, date, and reference when granted |
 | Atlas decision | The author's decision concerning specified passages, scenes, or phenomena, including the exact approved scope. | Assign a decision ID when made |
 
 These record types connect in several directions:
@@ -23,6 +25,7 @@ These record types connect in several directions:
 - A person may report several experiences. Several people may testify about one event.
 - An experience may have several accounts. One account may discuss more than one experience.
 - An account may appear in several source artifacts, including translations and revisions.
+- A working corpus unit records a segment of a compiled text; it does not necessarily represent one distinct experience.
 - A scene may describe several features. Similar features from different witnesses may share a motif without being treated as the same observed instance.
 - A reported relationship, such as containment, movement, sequence, agency, or location, must retain its source passage.
 - An Atlas decision attaches to the material actually considered, not automatically to an entire person or every account from that person.
@@ -57,6 +60,32 @@ Each relation can be recorded as a separate link with five parts: **subject ID, 
 
 New predicates may be added without changing the record classes. Distinguish a relation stated within testimony from one supplied by translation, editorial framing, or later analysis.
 
+## Previously processed corpus units
+
+The [Corpus Survey](../apparatus/Atlas_of_Perdition_Corpus_Survey.md) identifies 16 working text units from 13 named witnesses. The [phenomena seed](../apparatus/atlas_phenomena_seed.tsv) contains 426 records indexed to those units. The line ranges refer to the working compilation `Pasted text(20261116-025409).txt`, which is not stored in this repository.
+
+| Unit ID | Witness or account | Compilation lines | Phenomena | Experience boundary | Separate text in this collection |
+|---|---|---|---:|---|---|
+| DAN | Daniel Ekechukwu | 306–349 | 14 | Shorter mediated telling DA2 is linked |  |
+| BAX | Mary K. Baxter, *A Divine Revelation of Hell* | 350–2008 | 112 | 26 chapters; event boundaries remain source-specific |  |
+| MEL | Bryan Melvin | 2009–2042 | 35 |  |  |
+| PER | Jennifer Perez | 2043–2145 | 17 |  |  |
+| ALB | Aline Baxley, *I Walked in Hell* | 2226–2281 | 12 |  |  |
+| AZ1 | Angelica Zambrano, first experience | 2338–2813 | 29 | [AZ-01](angelica-zambrano/experience-01/readme.md) | [Edited English text](angelica-zambrano/experience-01/transcript.en.edited.md) |
+| AZ2 | Angelica Zambrano, second experience | 2814–3034 | 20 | [AZ-02](angelica-zambrano/experience-02/readme.md) | [English text](angelica-zambrano/experience-02/transcript.en.published.md) |
+| AZ3 | Angelica Zambrano, third experience | 3035–3383 | 23 | [AZ-03](angelica-zambrano/experience-03/readme.md) | [English text](angelica-zambrano/experience-03/transcript.en.published.md) |
+| AZ4 | Angelica Zambrano, fourth experience | 3384–3545 | 8 | [AZ-04](angelica-zambrano/experience-04/readme.md) | [Partial English text](angelica-zambrano/experience-04/transcript.en.partial.md) |
+| BRE | Carmelo Brenes, *Rescued from Hell* | 3546–3617 | 35 |  |  |
+| PAR | Young Moon Park | 3618–3671 | 14 |  |  |
+| APY | Athet Pyan Shinthaw Paulu | 3676–3775 | 14 |  |  |
+| FER | Bernarda Fernández | 3780–3851 | 13 | Two journeys within this source unit |  |
+| WIE | Bill Wiese, *23 Minutes in Hell* | 3856–4194 | 36 |  |  |
+| KNI | Carl Knighton | 4195–4248 | 7 |  |  |
+| PUR | Aaron Purser, *A Visit to Hell* | 4304–4474 | 37 |  |  |
+| **Total** | **13 named witnesses; 16 units** | | **426** | | |
+
+This table records existing apparatus work. The four separately archived Zambrano English texts are related published accounts; they have not been matched line by line to the compilation versions. The other twelve units are referenced through the apparatus and its source compilation.
+
 ## Collected experiences and accounts
 
 | Experience | Person | Collected account | Source condition | Collection state |
@@ -68,11 +97,22 @@ New predicates may be added without changing the record classes. Distinguish a r
 
 Each experience folder maintains its source links, textual history, and account outline. New tellings of an existing experience are added as accounts under the same experience ID. Scene, observation, and motif records are created as their source passages are indexed.
 
+## Collection and processing
+
+Collection is open to potential valid optasiological events (VOEs), including dreams, visions, near-death accounts, reports of resuscitation or resurrection, recorded prophecy, and other encounters. Collection includes locating sources, preserving permitted copies, identifying witnesses and account versions, and recording provenance. Collection requires no processing authorization.
+
+**Processing requires the Atlas author's approval for a named scope.** Processing means close reading, scene segmentation, formal claim or phenomenon extraction, AIM assessment, motif mapping, cross-witness synthesis, or adding material to the analytical apparatus. Approval can cover one passage, account, experience, person, or another clearly stated selection. A collected transcript does not enter processing automatically.
+
+| Processing authorization ID | Material and version(s) covered | Decision | Authorized operations | Author instruction / date |
+|---|---|---|---|---|
+
+The 16 corpus units above were processed previously. This tracker begins recording new processing authorizations as they occur.
+
 ## Assessment and Atlas disposition
 
 The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) scores the descriptive yield of each passage or scene on U or 0–4. Record its infernal locus and source anchor separately.
 
-The author approves Atlas inclusion for a **specified scope**. A proposal can be made during analysis; approval, approval with conditions, deferral, or rejection is recorded only from the Atlas author's decision. A blank decision field means no decision has been recorded.
+Atlas inclusion is a later, separate authorial decision. The author approves inclusion for a **specified scope**. A proposal can be made during analysis; approval, approval with conditions, deferral, or rejection is recorded only from the Atlas author's decision. A blank decision field means no decision has been recorded.
 
 | Decision ID | Proposed passage(s) or phenomena | Account and source anchor | AIM / locus | Decision | Author's decision reference and date | Approved scope / Atlas location |
 |---|---|---|---|---|---|---|
@@ -83,10 +123,11 @@ The discovery register also identifies Mary K. Baxter (PROS-032) and Park Young 
 
 ## Adding records
 
-1. Identify the person and the distinct reported experience. Reuse an existing experience ID for another account of the same occurrence.
-2. Link the account to a source artifact. Record language, translation, editing, completeness, and source dates where known; distinguish event date from recording or publication date.
-3. Anchor scenes and statements to passages or timestamps. Classify reported modes, settings, described elements, and relationships as the material establishes them.
-4. Record AIM findings against passages or scenes and link proposals to their exact source anchors.
-5. Record author decisions in the disposition table with date, reference, and scope. If a decision changes, add a new entry referring to the earlier decision.
+1. Collect a possible VOE and identify the person, reported experience, account, and source. Reuse an existing experience ID for another telling of the same occurrence.
+2. Record language, translation, editing, completeness, provenance, and dates where known. Collection may end here.
+3. If the author approves processing, record the scope and instruction in the processing authorization table.
+4. Within that approved scope, anchor scenes and statements to passages or timestamps, then classify reported modes, settings, described features, and relations.
+5. Record AIM findings against passages or scenes. Prepare any proposed Atlas entries with their exact source anchors.
+6. Record a separate author decision for Atlas inclusion, including date, reference, and approved scope. If a decision changes, add a new entry referring to the earlier decision.
 
-The tables can be split into separate machine-readable registers as the collection grows, retaining the same IDs and relations. The tracker remains the index for current disposition decisions; the source discovery register retains the original first-pass research statuses.
+The tables can be split into separate machine-readable registers as the collection grows, retaining the same IDs and relations. The source discovery register retains the original first-pass research statuses. Future narrative use in the *He Placed Eternity* volumes remains a separate authorial undertaking.

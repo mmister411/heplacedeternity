@@ -15,4 +15,4 @@ The collection is organized by **person → distinct reported experience → tex
 
 ## Tracking
 
-The [testimony tracker](testimony_tracker.md) links collected experiences, account versions, described phenomena, and Atlas inclusion decisions.
+The [testimony tracker](testimony_tracker.md) records collected material, previously processed corpus units, author permissions for further processing, and later Atlas decisions.

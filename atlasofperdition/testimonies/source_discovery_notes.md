@@ -42,14 +42,15 @@ The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria
 
 Every prospect in this discovery register is currently `U`. The two already-ingested witnesses retain their existing records and are marked `legacy_ingested_unscored` pending retrospective assessment. Search-result topic hints in this register are **not** AIM scores. The new approval fields remain `not_requested` for newly discovered prospects. The two pre-existing corpus names carry `pre_protocol_not_recorded`: this reports that a decision under the newly established approval protocol has not been documented, without changing their existing records.
 
-## Before promoting a lead into the Atlas
+## Collection and further processing
 
 1. Open the linked source and identify the actual speaker, title, format, and account boundaries.
-2. Determine whether it contains an account of Perdition; preserve heavenly or non-infernal material separately when relevant to the parent project.
+2. Record apparent subjects from the source information available. Potential VOE accounts may be collected regardless of their connection to Perdition.
 3. Preserve a permitted source artifact and record the origin, its language or version when known, and its degree of mediation (direct testimony, transcript, translation, summary, interview).
-4. Segment narrative units and extract source-anchored claims with the established knowledge modes.
-5. Assign stable identifiers without renumbering existing Atlas records; classify new phenomena and review cross-witness motifs.
-6. Prepare a precise inclusion proposal for the Atlas author/user; **do not modify the Atlas register without their explicit approval**.
-7. After approval, validate indexes and document unresolved identity, provenance, or textual questions.
+4. Record the Atlas author's approval to process the specified testimony material in the [testimony tracker](testimony_tracker.md).
+5. Within the approved processing scope, segment narrative units and extract source-anchored claims with the established knowledge modes.
+6. Assign stable identifiers without renumbering existing Atlas records; classify phenomena and examine cross-witness motifs.
+7. Prepare any proposed Atlas inclusion separately for the author's approval; do not add material to the Atlas register before that decision.
+8. After Atlas approval, validate indexes and record the precise approved scope and remaining source questions.
 
 **Original first-pass status:** source discovery only. **Later testimony collection:** four Zambrano English texts archived. **Phenomena added to Atlas from these intakes:** zero. **Existing 426 Atlas records changed:** zero.
