@@ -8,7 +8,7 @@
 | Historical corpus unit | `PUR` — lines 4304–4474; 37 previously indexed phenomena |
 | Original text boundary | One detailed written vision, later followed by earthly devastation scenes in the same text; do not split into separate events solely by changes in setting. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 

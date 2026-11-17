@@ -25,3 +25,5 @@ The Encinar de Mamré English page expressly invites copying and says the posted
 The **23-hour** duration and dates are published claims, not independently verified. The English transcription host gives **7 November 2009**, while [this later four-experience compilation](https://henrytanlife.blogspot.com/2016/10/testimonies-of-angelica-zambrano.html) gives **7 November 2008** for the first experience. The year is unresolved; do not silently harmonize the accounts. Other experiences attributed to Angelica require separate records.
 
 **Research boundary:** These texts are collected testimony sources, not adopted findings. In particular, assertions about the eternal state of named real people are allegations attributed to the narrative.
+
+**Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.

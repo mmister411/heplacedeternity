@@ -13,3 +13,7 @@
 
 A single book-length corpus unit may encompass multiple visits; chapters are textual divisions, not necessarily unique experiences.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)

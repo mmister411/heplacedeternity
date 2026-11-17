@@ -23,3 +23,5 @@
 The edited text contains statements attributed to **Angelica**, her mother **Maxima**, and editorial narration or afterword material. The speaker of each passage should remain identifiable. Claims about named people being in Hell belong to Angelica's account.
 
 Other translations, recordings, and interviews describing this first experience belong in this folder as separate versions.
+
+- [Complete collector's working-compilation text](compilation-extract.en.txt) — preserved separately from the published edition above.

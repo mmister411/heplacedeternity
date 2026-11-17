@@ -8,7 +8,7 @@
 | Historical corpus unit | `PER` — lines 2043–2145; 17 previously indexed phenomena |
 | Original text boundary | One testimony with heavenly and infernal sections; published English version in public PDF. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 

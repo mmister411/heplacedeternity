@@ -22,7 +22,8 @@ The collection is organized by **person → distinct reported experience → tex
 
 ## Source discovery
 
-- [Consolidated source manifest](source_manifest.tsv): 40 linked or locally archived source artifacts for the 16 previously processed units, with provenance and copy paths.
+- [Consolidated source manifest](source_manifest.tsv): 61 source artifacts, including 21 verbatim extracts from the collector's compilation for the 16 previously processed units, with provenance and copy paths.
+- [Compilation provenance and checksums](compilation_provenance.md): Exact extract boundaries, master-file hash, and per-file SHA-256 values.
 - [Experience and source-work register](experience_register.tsv): 17 records across 13 witnesses (Mary K. Baxter is counted as a book-level work; Bernarda Fernández's journeys are separate).
 - [Source discovery register](source_discovery_register.tsv): 59 names from the collector's list, with up to two source leads per entry (101 distinct URLs). Source identification and topic categories are still being checked.
 - [Discovery notes and intake boundaries](source_discovery_notes.md): Sources located, unresolved names, attribution rules, and conditions for collecting full testimony texts.

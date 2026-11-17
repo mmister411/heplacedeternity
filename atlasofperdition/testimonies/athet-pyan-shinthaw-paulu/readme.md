@@ -13,3 +13,7 @@
 
 English texts are mediated; capture translator/editor provenance rather than implying witness-authored English.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)

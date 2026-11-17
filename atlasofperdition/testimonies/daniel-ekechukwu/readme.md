@@ -13,3 +13,8 @@
 
 One person, one reported episode; witness interviews and documentary are sources with distinct speakers.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)
+- [Shorter second telling from the same compilation](experience-01/retelling-02.en.compilation.txt)

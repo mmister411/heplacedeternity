@@ -13,3 +13,7 @@
 
 CBN interviewer narration and Carl's quoted speech are different voices.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)

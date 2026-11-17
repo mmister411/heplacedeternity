@@ -66,25 +66,25 @@ The [Corpus Survey](../apparatus/Atlas_of_Perdition_Corpus_Survey.md) identifies
 
 | Unit ID | Witness or account | Compilation lines | Phenomena | Experience boundary | Collection record or archived text |
 |---|---|---|---:|---|---|
-| DAN | Daniel Ekechukwu | 306–349 | 14 | Shorter mediated telling DA2 is linked | [DAN source register](daniel-ekechukwu/experience-01/sources.md) |
-| BAX | Mary K. Baxter, *A Divine Revelation of Hell* | 350–2008 | 112 | 26 chapters; event boundaries remain source-specific | [BAX source register](mary-k-baxter/experience-01/sources.md) |
-| MEL | Bryan Melvin | 2009–2042 | 35 |  | [MEL source register](bryan-melvin/experience-01/sources.md) |
-| PER | Jennifer Perez | 2043–2145 | 17 |  | [PER source register](jennifer-perez/experience-01/sources.md) |
-| ALB | Aline Baxley, *I Walked in Hell* | 2226–2281 | 12 |  | [ALB source register](aline-baxley/experience-01/sources.md) |
-| AZ1 | Angelica Zambrano, first experience | 2338–2813 | 29 | [AZ-01](angelica-zambrano/experience-01/readme.md) | [Edited English text](angelica-zambrano/experience-01/transcript.en.edited.md) |
-| AZ2 | Angelica Zambrano, second experience | 2814–3034 | 20 | [AZ-02](angelica-zambrano/experience-02/readme.md) | [English text](angelica-zambrano/experience-02/transcript.en.published.md) |
-| AZ3 | Angelica Zambrano, third experience | 3035–3383 | 23 | [AZ-03](angelica-zambrano/experience-03/readme.md) | [English text](angelica-zambrano/experience-03/transcript.en.published.md) |
-| AZ4 | Angelica Zambrano, fourth experience | 3384–3545 | 8 | [AZ-04](angelica-zambrano/experience-04/readme.md) | [Partial English text](angelica-zambrano/experience-04/transcript.en.partial.md) |
-| BRE | Carmelo Brenes, *Rescued from Hell* | 3546–3617 | 35 |  | [BRE source register](carmelo-brenes/experience-01/sources.md) |
-| PAR | Young Moon Park | 3618–3671 | 14 |  | [PAR source register](young-moon-park/experience-01/sources.md) |
-| APY | Athet Pyan Shinthaw Paulu | 3676–3775 | 14 |  | [APY source register](athet-pyan-shinthaw-paulu/experience-01/sources.md) |
-| FER | Bernarda Fernández | 3780–3851 | 13 | Two journeys within this source unit | [FER source register](bernarda-fernandez/sources.md) |
-| WIE | Bill Wiese, *23 Minutes in Hell* | 3856–4194 | 36 |  | [WIE source register](bill-wiese/experience-01/sources.md) |
-| KNI | Carl Knighton | 4195–4248 | 7 |  | [KNI source register](carl-knighton/experience-01/sources.md) |
-| PUR | Aaron Purser, *A Visit to Hell* | 4304–4474 | 37 |  | [PUR source register](aaron-purser/experience-01/sources.md) |
+| DAN | Daniel Ekechukwu | 306–349 | 14 | Shorter mediated telling DA2 is linked | [DAN source register](daniel-ekechukwu/experience-01/sources.md) · [Compilation copy](daniel-ekechukwu/experience-01/compilation-extract.en.txt) |
+| BAX | Mary K. Baxter, *A Divine Revelation of Hell* | 350–2008 | 112 | 26 chapters; event boundaries remain source-specific | [BAX source register](mary-k-baxter/experience-01/sources.md) · [Compilation copy](mary-k-baxter/experience-01/compilation-extract.en.txt) |
+| MEL | Bryan Melvin | 2009–2042 | 35 |  | [MEL source register](bryan-melvin/experience-01/sources.md) · [Compilation copy](bryan-melvin/experience-01/compilation-extract.en.txt) |
+| PER | Jennifer Perez | 2043–2145 | 17 |  | [PER source register](jennifer-perez/experience-01/sources.md) · [Compilation copy](jennifer-perez/experience-01/compilation-extract.en.txt) |
+| ALB | Aline Baxley, *I Walked in Hell* | 2226–2281 | 12 |  | [ALB source register](aline-baxley/experience-01/sources.md) · [Compilation copy](aline-baxley/experience-01/compilation-extract.en.txt) |
+| AZ1 | Angelica Zambrano, first experience | 2338–2813 | 29 | [AZ-01](angelica-zambrano/experience-01/readme.md) | [Edited English text](angelica-zambrano/experience-01/transcript.en.edited.md) · [Compilation copy](angelica-zambrano/experience-01/compilation-extract.en.txt) |
+| AZ2 | Angelica Zambrano, second experience | 2814–3034 | 20 | [AZ-02](angelica-zambrano/experience-02/readme.md) | [English text](angelica-zambrano/experience-02/transcript.en.published.md) · [Compilation copy](angelica-zambrano/experience-02/compilation-extract.en.txt) |
+| AZ3 | Angelica Zambrano, third experience | 3035–3383 | 23 | [AZ-03](angelica-zambrano/experience-03/readme.md) | [English text](angelica-zambrano/experience-03/transcript.en.published.md) · [Compilation copy](angelica-zambrano/experience-03/compilation-extract.en.txt) |
+| AZ4 | Angelica Zambrano, fourth experience | 3384–3545 | 8 | [AZ-04](angelica-zambrano/experience-04/readme.md) | [Partial English text](angelica-zambrano/experience-04/transcript.en.partial.md) · [Compilation copy](angelica-zambrano/experience-04/compilation-extract.en.txt) |
+| BRE | Carmelo Brenes, *Rescued from Hell* | 3546–3617 | 35 |  | [BRE source register](carmelo-brenes/experience-01/sources.md) · [Compilation copy](carmelo-brenes/experience-01/compilation-extract.en.txt) |
+| PAR | Young Moon Park | 3618–3671 | 14 |  | [PAR source register](young-moon-park/experience-01/sources.md) · [Compilation copy](young-moon-park/experience-01/compilation-extract.en.txt) |
+| APY | Athet Pyan Shinthaw Paulu | 3676–3775 | 14 |  | [APY source register](athet-pyan-shinthaw-paulu/experience-01/sources.md) · [Compilation copy](athet-pyan-shinthaw-paulu/experience-01/compilation-extract.en.txt) |
+| FER | Bernarda Fernández | 3780–3851 | 13 | Two journeys within this source unit | [FER source register](bernarda-fernandez/sources.md) · [Compilation copy](bernarda-fernandez/compilation-extract.en.txt) |
+| WIE | Bill Wiese, *23 Minutes in Hell* | 3856–4194 | 36 |  | [WIE source register](bill-wiese/experience-01/sources.md) · [Compilation copy](bill-wiese/experience-01/compilation-extract.en.txt) |
+| KNI | Carl Knighton | 4195–4248 | 7 |  | [KNI source register](carl-knighton/experience-01/sources.md) · [Compilation copy](carl-knighton/experience-01/compilation-extract.en.txt) |
+| PUR | Aaron Purser, *A Visit to Hell* | 4304–4474 | 37 |  | [PUR source register](aaron-purser/experience-01/sources.md) · [Compilation copy](aaron-purser/experience-01/compilation-extract.en.txt) |
 | **Total** | **13 named witnesses; 16 units** | | **426** | | |
 
-This table records existing apparatus work. The four separately archived Zambrano English texts are related published accounts; they have not been matched line by line to the compilation versions. The other twelve units have collection folders containing external full-text, interview, PDF, and recording leads. These source documents are linked, not copied into the repository. Their exact editions have not been collated against the historical compilation.
+This table records existing apparatus work. The four separately archived Zambrano English texts are related published accounts; they have not been matched line by line to the compilation versions. The historical compilation is now preserved in full, divided into 16 principal source units and five related companion extracts. Each witness folder holds a byte-exact copy of its complete compilation section and links to external editions. The compilation copies have not yet been collated line by line against the external editions.
 
 ## Collected experiences and accounts
 
@@ -94,20 +94,20 @@ This table records existing apparatus work. The four separately archived Zambran
 | [AZ-02](angelica-zambrano/experience-02/readme.md) | Angelica Zambrano | [AZ-02/A1: English published text](angelica-zambrano/experience-02/transcript.en.published.md) | English text from HeavenVisit | Archived |
 | [AZ-03](angelica-zambrano/experience-03/readme.md) | Angelica Zambrano | [AZ-03/A1: English published text](angelica-zambrano/experience-03/transcript.en.published.md) | English text from HeavenVisit | Archived |
 | [AZ-04](angelica-zambrano/experience-04/readme.md) | Angelica Zambrano | [AZ-04/A1: English partial text](angelica-zambrano/experience-04/transcript.en.partial.md) | Published telling covers part of the fourth experience | Archived |
-| [DAN-01](daniel-ekechukwu/readme.md) | Daniel Ekechukwu | [3 source links](daniel-ekechukwu/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [BAX-W01](mary-k-baxter/readme.md) | Mary K. Baxter | [4 source links](mary-k-baxter/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [MEL-01](bryan-melvin/readme.md) | Bryan Melvin | [3 source links](bryan-melvin/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [PER-01](jennifer-perez/readme.md) | Jennifer Perez | [3 source links](jennifer-perez/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [ALB-01](aline-baxley/readme.md) | Aline Baxley | [2 source links](aline-baxley/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [BRE-01](carmelo-brenes/readme.md) | Carmelo Brenes | [3 source links](carmelo-brenes/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [PAR-01](young-moon-park/readme.md) | Young Moon Park | [3 source links](young-moon-park/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [APY-01](athet-pyan-shinthaw-paulu/readme.md) | Athet Pyan Shinthaw Paulu | [3 source links](athet-pyan-shinthaw-paulu/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [FER-01 / FER-02](bernarda-fernandez/readme.md) | Bernarda Fernández | [4 source links](bernarda-fernandez/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [WIE-01](bill-wiese/readme.md) | Bill Wiese | [4 source links](bill-wiese/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [KNI-01](carl-knighton/readme.md) | Carl Knighton | [3 source links](carl-knighton/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
-| [PUR-01](aaron-purser/readme.md) | Aaron Purser | [1 source links](aaron-purser/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Linked; no local full transcript |
+| [DAN-01](daniel-ekechukwu/readme.md) | Daniel Ekechukwu | [3 source links](daniel-ekechukwu/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [BAX-W01](mary-k-baxter/readme.md) | Mary K. Baxter | [4 source links](mary-k-baxter/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [MEL-01](bryan-melvin/readme.md) | Bryan Melvin | [3 source links](bryan-melvin/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [PER-01](jennifer-perez/readme.md) | Jennifer Perez | [3 source links](jennifer-perez/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [ALB-01](aline-baxley/readme.md) | Aline Baxley | [2 source links](aline-baxley/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [BRE-01](carmelo-brenes/readme.md) | Carmelo Brenes | [3 source links](carmelo-brenes/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [PAR-01](young-moon-park/readme.md) | Young Moon Park | [3 source links](young-moon-park/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [APY-01](athet-pyan-shinthaw-paulu/readme.md) | Athet Pyan Shinthaw Paulu | [3 source links](athet-pyan-shinthaw-paulu/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [FER-01 / FER-02](bernarda-fernandez/readme.md) | Bernarda Fernández | [4 source links](bernarda-fernandez/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [WIE-01](bill-wiese/readme.md) | Bill Wiese | [4 source links](bill-wiese/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [KNI-01](carl-knighton/readme.md) | Carl Knighton | [3 source links](carl-knighton/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
+| [PUR-01](aaron-purser/readme.md) | Aaron Purser | [1 source link](aaron-purser/experience-01/sources.md) | External full texts, interviews, and/or documents; see source record | Full compilation section archived; external versions linked |
 
-Each experience folder records the witness, historical corpus anchor, account versions, and source links. The four Zambrano folders also hold archived English transcripts and account outlines. New tellings of an existing experience are added as accounts under the same experience ID. Scene, observation, and motif records are created as their source passages are indexed.
+Each experience folder records the witness, historical corpus anchor, full compilation extract, account versions, and source links. The four Zambrano folders also hold separately archived published English texts and account outlines. New tellings of an existing experience are added as accounts under the same experience ID. Scene, observation, and motif records are created as their source passages are indexed.
 
 ## Collection and processing
 

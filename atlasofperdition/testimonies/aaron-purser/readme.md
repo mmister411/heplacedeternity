@@ -13,3 +13,7 @@
 
 The extant Ecency copy is attributed to Aaron Purser but published by user seyiodus; first publication and editorial chain are not established.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)

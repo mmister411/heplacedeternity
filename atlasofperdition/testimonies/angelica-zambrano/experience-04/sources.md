@@ -16,3 +16,5 @@
 **Version control:** Fourth-experience mirrors are versions of AZ-04. The date **27 March 2015** is a publication date for one written presentation, not necessarily the visionary episode's date.
 
 **Copy status:** The website's English published telling is archived as [transcript.en.partial.md](transcript.en.partial.md). Its author/publisher invites sharing; this version explicitly narrates only part of the experience.
+
+**Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.

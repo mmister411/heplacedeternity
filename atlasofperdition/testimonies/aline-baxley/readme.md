@@ -13,3 +13,8 @@
 
 The editorial summary is not an additional independent witness or experience.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)
+- [Preceding editorial summary](experience-01/editorial-summary.en.compilation.txt)

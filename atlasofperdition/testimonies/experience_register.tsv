@@ -1,18 +1,18 @@
-record_id	record_kind	witness	historical_corpus_unit	experience_record	repository_transcript	collection_state	unit_level_phenomena_count
-AZ-01	experience	Angelica Zambrano	AZ1	angelica-zambrano/experience-01/readme.md	angelica-zambrano/experience-01/transcript.en.edited.md	archived_text	29
-AZ-02	experience	Angelica Zambrano	AZ2	angelica-zambrano/experience-02/readme.md	angelica-zambrano/experience-02/transcript.en.published.md	archived_text	20
-AZ-03	experience	Angelica Zambrano	AZ3	angelica-zambrano/experience-03/readme.md	angelica-zambrano/experience-03/transcript.en.published.md	archived_text	23
-AZ-04	experience	Angelica Zambrano	AZ4	angelica-zambrano/experience-04/readme.md	angelica-zambrano/experience-04/transcript.en.partial.md	archived_text	8
-DAN-01	experience	Daniel Ekechukwu	DAN	daniel-ekechukwu/experience-01/readme.md		linked_full_text	14
-BAX-W01	source_work	Mary K. Baxter	BAX	mary-k-baxter/experience-01/readme.md		linked_full_text	112
-MEL-01	experience	Bryan Melvin	MEL	bryan-melvin/experience-01/readme.md		linked_full_text	35
-PER-01	experience	Jennifer Perez	PER	jennifer-perez/experience-01/readme.md		linked_full_text	17
-ALB-01	experience	Aline Baxley	ALB	aline-baxley/experience-01/readme.md		linked_full_text	12
-BRE-01	experience	Carmelo Brenes	BRE	carmelo-brenes/experience-01/readme.md		linked_full_text	35
-PAR-01	experience	Young Moon Park	PAR	young-moon-park/experience-01/readme.md		linked_full_text	14
-APY-01	experience	Athet Pyan Shinthaw Paulu	APY	athet-pyan-shinthaw-paulu/experience-01/readme.md		linked_full_text	14
-FER-01	experience	Bernarda Fernández	FER	bernarda-fernandez/experience-01/readme.md		linked_full_text	
-FER-02	experience	Bernarda Fernández	FER	bernarda-fernandez/experience-02/readme.md		linked_full_text	
-WIE-01	experience	Bill Wiese	WIE	bill-wiese/experience-01/readme.md		linked_full_text	36
-KNI-01	experience	Carl Knighton	KNI	carl-knighton/experience-01/readme.md		linked_full_text	7
-PUR-01	experience	Aaron Purser	PUR	aaron-purser/experience-01/readme.md		linked_full_text	37
+record_id	record_kind	witness	historical_corpus_unit	experience_record	repository_transcript	collection_state	unit_level_phenomena_count	compilation_extract_path
+AZ-01	experience	Angelica Zambrano	AZ1	angelica-zambrano/experience-01/readme.md	angelica-zambrano/experience-01/transcript.en.edited.md	archived_text	29	angelica-zambrano/experience-01/compilation-extract.en.txt
+AZ-02	experience	Angelica Zambrano	AZ2	angelica-zambrano/experience-02/readme.md	angelica-zambrano/experience-02/transcript.en.published.md	archived_text	20	angelica-zambrano/experience-02/compilation-extract.en.txt
+AZ-03	experience	Angelica Zambrano	AZ3	angelica-zambrano/experience-03/readme.md	angelica-zambrano/experience-03/transcript.en.published.md	archived_text	23	angelica-zambrano/experience-03/compilation-extract.en.txt
+AZ-04	experience	Angelica Zambrano	AZ4	angelica-zambrano/experience-04/readme.md	angelica-zambrano/experience-04/transcript.en.partial.md	archived_text	8	angelica-zambrano/experience-04/compilation-extract.en.txt
+DAN-01	experience	Daniel Ekechukwu	DAN	daniel-ekechukwu/experience-01/readme.md		compilation_extract_archived	14	daniel-ekechukwu/experience-01/compilation-extract.en.txt
+BAX-W01	source_work	Mary K. Baxter	BAX	mary-k-baxter/experience-01/readme.md		compilation_extract_archived	112	mary-k-baxter/experience-01/compilation-extract.en.txt
+MEL-01	experience	Bryan Melvin	MEL	bryan-melvin/experience-01/readme.md		compilation_extract_archived	35	bryan-melvin/experience-01/compilation-extract.en.txt
+PER-01	experience	Jennifer Perez	PER	jennifer-perez/experience-01/readme.md		compilation_extract_archived	17	jennifer-perez/experience-01/compilation-extract.en.txt
+ALB-01	experience	Aline Baxley	ALB	aline-baxley/experience-01/readme.md		compilation_extract_archived	12	aline-baxley/experience-01/compilation-extract.en.txt
+BRE-01	experience	Carmelo Brenes	BRE	carmelo-brenes/experience-01/readme.md		compilation_extract_archived	35	carmelo-brenes/experience-01/compilation-extract.en.txt
+PAR-01	experience	Young Moon Park	PAR	young-moon-park/experience-01/readme.md		compilation_extract_archived	14	young-moon-park/experience-01/compilation-extract.en.txt
+APY-01	experience	Athet Pyan Shinthaw Paulu	APY	athet-pyan-shinthaw-paulu/experience-01/readme.md		compilation_extract_archived	14	athet-pyan-shinthaw-paulu/experience-01/compilation-extract.en.txt
+FER-01	experience	Bernarda Fernández	FER	bernarda-fernandez/experience-01/readme.md		compilation_extract_archived		bernarda-fernandez/experience-01/compilation-extract.en.txt
+FER-02	experience	Bernarda Fernández	FER	bernarda-fernandez/experience-02/readme.md		compilation_extract_archived		bernarda-fernandez/experience-02/compilation-extract.en.txt
+WIE-01	experience	Bill Wiese	WIE	bill-wiese/experience-01/readme.md		compilation_extract_archived	36	bill-wiese/experience-01/compilation-extract.en.txt
+KNI-01	experience	Carl Knighton	KNI	carl-knighton/experience-01/readme.md		compilation_extract_archived	7	carl-knighton/experience-01/compilation-extract.en.txt
+PUR-01	experience	Aaron Purser	PUR	aaron-purser/experience-01/readme.md		compilation_extract_archived	37	aaron-purser/experience-01/compilation-extract.en.txt

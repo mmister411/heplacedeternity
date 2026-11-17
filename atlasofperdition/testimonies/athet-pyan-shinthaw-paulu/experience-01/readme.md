@@ -8,7 +8,7 @@
 | Historical corpus unit | `APY` — lines 3676–3775; 14 previously indexed phenomena |
 | Original text boundary | One reported experience conveyed through translation and editorial introduction. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 

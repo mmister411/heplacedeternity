@@ -14,3 +14,5 @@
 **Version control:** These are tellings or reproductions of **AZ-02**, not six experiences. The HeavenVisit page has some surrounding headings that refer to other experience numbers; its specific account heading and narrative identify this one as the second. The source dates, accuracy, and license status require separate verification.
 
 **Copy status:** The site's English published account is archived as [transcript.en.published.md](transcript.en.published.md); its publisher invites readers to share the testimony. Spanish comparison remains pending.
+
+**Collector's compilation copy:** [complete source-unit extract](compilation-extract.en.txt). This is the version supplied in the original compilation, not a verified transcription of the linked recordings.

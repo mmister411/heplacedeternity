@@ -8,7 +8,7 @@
 | Historical corpus unit | `BAX` — lines 350–2008; 112 previously indexed phenomena |
 | Original text boundary | Book-length narrative organized in 26 chapters in the historical compilation. Thirty reported nights are described by the publisher; distinct event-by-event segmentation is not yet established. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 The `BAX-W01` identifier denotes the **published work**, not a claim that all reported nights constitute one experience. The 26-chapter structure should remain intact until individual visits can be identified from the source.
 

@@ -8,7 +8,7 @@
 | Historical corpus unit | `WIE` — lines 3856–4194; 36 previously indexed phenomena |
 | Original text boundary | One reported experience; first-person oral testimony with wife Annette's account of his return; a separate commercial book carries additional publication history. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 

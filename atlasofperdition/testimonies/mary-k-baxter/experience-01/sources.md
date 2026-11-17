@@ -11,6 +11,6 @@
 
 ## Holdings
 
-- Repository holding: source links and bibliographic metadata. No full transcript for this witness has yet been archived here.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
 - Working compilation reference for `BAX` is indexed at lines 350–2008. Its exact base edition has not been collated against the linked items.
-- Publisher record: Whitaker House, *A Divine Revelation of Hell*, first edition 1993, ISBN 9780883682791. The publisher's commercial edition remains a separately identified work; no book text is republished in this folder.
+- Publisher record: Whitaker House, *A Divine Revelation of Hell*, first edition 1993, ISBN 9780883682791. The publisher's commercial edition remains separately identified from the collector-supplied compilation extract.

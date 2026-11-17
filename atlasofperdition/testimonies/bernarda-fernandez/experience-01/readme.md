@@ -7,6 +7,6 @@
 | Historical corpus | `FER`, compilation lines 3780–3851 (both journeys combined) |
 | Source artifacts | [Shared source register](../sources.md) |
 | Source edition | [MCreveil English account](https://www.mcreveil.net/Anglais/hell/bernarda_en.php), containing both journeys |
-| Local transcript | None; linked full text is hosted externally |
+| Complete compilation extract | [Local text of this journey](compilation-extract.en.txt) |
 
 The boundaries of this journey are the witness's narrative divisions. Both journeys currently share corpus ID `FER`; the existing thirteen phenomena were not assigned to separate journeys in the historical survey.

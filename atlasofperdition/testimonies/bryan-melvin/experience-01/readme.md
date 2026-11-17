@@ -8,7 +8,7 @@
 | Historical corpus unit | `MEL` — lines 2009–2042; 35 previously indexed phenomena |
 | Original text boundary | The historical corpus uses an excerpt; account extends beyond the excerpt. Do not equate a book excerpt with the complete published testimony. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 

@@ -8,9 +8,11 @@
 | Historical corpus unit | `ALB` — lines 2226–2281; 12 previously indexed phenomena |
 | Original text boundary | One first-person testimony; an editorial summary in the compilation precedes the first-person unit. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 **Linked material in the historical compilation:** 2178–2225 (editorial summary). This is not indexed as a separate witness.
+
+[Read the separately collected editorial summary](editorial-summary.en.compilation.txt).
 
 ## Source condition
 

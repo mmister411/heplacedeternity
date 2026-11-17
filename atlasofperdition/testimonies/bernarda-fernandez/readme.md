@@ -9,7 +9,7 @@
 - [FER-01 — first journey](experience-01/readme.md)
 - [FER-02 — second journey](experience-02/readme.md)
 
-The [source register](sources.md) identifies editions carrying both journeys. One historical corpus unit covers both.
+The [complete combined compilation text](compilation-extract.en.txt) preserves both journeys together. The [source register](sources.md) identifies external editions carrying both journeys. One historical corpus unit covers both.
 
 ## Source boundary
 

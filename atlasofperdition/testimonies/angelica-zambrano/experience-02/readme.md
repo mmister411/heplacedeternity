@@ -14,3 +14,5 @@ The testimony describes Angelica anticipating a second visit, the presence of wi
 - [Archived English published account](transcript.en.published.md)
 - [Sources and version relationships](sources.md)
 - [Working account outline](account-outline.md)
+
+- [Complete collector's working-compilation text](compilation-extract.en.txt) — preserved separately from the published edition above.

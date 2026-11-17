@@ -14,5 +14,5 @@ Both reported journeys appear in the linked accounts. Source variants share the 
 - Primary English online reading link: [MCreveil](https://www.mcreveil.net/Anglais/hell/bernarda_en.php).
 - A Spanish text is also linked; no statement of original-language priority is established here.
 - The HeavenVisit lead was unavailable (502 response) at the last check. Retain the URL as a discovery lead.
-- These are **external source artifacts**. No independent locally archived full transcript is claimed.
+- The [combined working compilation text](compilation-extract.en.txt) and [individual journeys](experience-01/compilation-extract.en.txt) are preserved locally. External editions remain linked above; their wording has not yet been collated.
 - The historical `FER` corpus unit and its 13 phenomena are documented in the [survey](../../apparatus/Atlas_of_Perdition_Corpus_Survey.md); division between journeys is pending source-level collation.

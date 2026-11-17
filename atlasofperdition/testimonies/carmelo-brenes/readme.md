@@ -13,3 +13,7 @@
 
 Do not attribute host biography or translator framing to the witness without textual support.
 
+
+## Compiled testimony text
+
+- [Complete working-compilation section](experience-01/compilation-extract.en.txt)

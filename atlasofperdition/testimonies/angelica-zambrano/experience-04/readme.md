@@ -12,3 +12,5 @@
 - [Archived English partial account](transcript.en.partial.md)
 - [Sources and version relationships](sources.md)
 - [Working account outline](account-outline.md)
+
+- [Complete collector's working-compilation text](compilation-extract.en.txt) — preserved separately from the published edition above.

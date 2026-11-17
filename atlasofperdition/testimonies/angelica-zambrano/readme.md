@@ -12,3 +12,5 @@ The four reported experiences are filed separately. Recordings, translations, ed
 - [AZ-04: Fourth reported visit](experience-04/readme.md): spiritual-condition imagery and further reported infernal scenes; the located English telling explicitly describes itself as **partial**.
 
 Each experience folder contains an English transcript, source information, and an account outline. The publisher identifies the AZ-01 English text as edited and minimally abridged; the available AZ-04 text covers only part of the fourth experience.
+
+The collector's complete source sections are also preserved as separate [compilation extracts](../compilation_provenance.md) alongside the published English editions. The editorial overview is retained as [a distinct compilation item](editorial-overview.en.compilation.txt).

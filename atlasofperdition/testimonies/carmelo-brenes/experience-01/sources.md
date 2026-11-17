@@ -10,5 +10,5 @@
 
 ## Holdings
 
-- Repository holding: source links and bibliographic metadata. No full transcript for this witness has yet been archived here.
+- Repository holding: [complete historical compilation unit](compilation-extract.en.txt) plus external edition/recording links. The compilation extract is the collector's supplied wording; it has not been collated to a particular external edition.
 - Working compilation reference for `BRE` is indexed at lines 3546–3617. Its exact base edition has not been collated against the linked items.

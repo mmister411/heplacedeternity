@@ -8,7 +8,7 @@
 | Historical corpus unit | `KNI` — lines 4195–4248; 7 previously indexed phenomena |
 | Original text boundary | One report presented through edited television interview and article. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 

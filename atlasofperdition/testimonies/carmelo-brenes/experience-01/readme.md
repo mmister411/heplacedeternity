@@ -8,7 +8,7 @@
 | Historical corpus unit | `BRE` — lines 3546–3617; 35 previously indexed phenomena |
 | Original text boundary | One infernal account with variants in title; separate translations/recordings may exist. |
 | Source versions | [Source register](sources.md) |
-| Local full transcript | No; full reading/recording links are in `sources.md` |
+| Complete compilation extract | [Local working-text copy](compilation-extract.en.txt) |
 
 ## Source condition
 
