@@ -1,0 +1,14 @@
+# PER-01 — Source documents and versions
+
+**Witness:** Jennifer Perez. **Reported material:** “Hell Is Real, I Went There”.
+
+| Account / source ID | Source | Medium and language | Extent / provenance |
+|---|---|---|---|
+| `PER-01/A1` | [Hell Is Real, I Went There — DivineRevelations PDF](https://www.divinerevelations.info/documents/jennifer_perez/Hell_is_Real_I_Went_There_Jennifer_Perez.pdf) | English; seven-page first-person text | Public PDF complete as hosted; speech attribution and translation background not established. |
+| `PER-01/A2` | [Jennifer Perez — alternative English PDF](https://www.insightsofgod.com/downloads/english_jennifer_perez.pdf) | English; hosted PDF reproduction | Compare text to A1 for edits and omission before treating as distinct account version. |
+| `PER-01/A3` | [Hell is Real, I Went There — Christ is Coming](https://christiscoming.net/2016/05/27/hell-is-real-i-went-there-testimony-of-jennifer-perez/) | English; online reproduction lead | Check exact page availability and textual equivalence; title and path identify a lead. |
+
+## Holdings
+
+- Repository holding: source links and bibliographic metadata. No full transcript for this witness has yet been archived here.
+- Working compilation reference for `PER` is indexed at lines 2043–2145. Its exact base edition has not been collated against the linked items.

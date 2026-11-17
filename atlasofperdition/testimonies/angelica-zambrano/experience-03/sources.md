@@ -13,4 +13,4 @@
 
 **Version control:** Multiple web texts do not establish separate experiences or independent witnesses. Keep first-, second-, and fourth-experience material out of this instance. Transcribed testimony, attributed divine speech, editorial interpretations, and Scripture references are distinct content types.
 
-**Copy status:** The website's English written account is archived as [transcript.en.published.md](transcript.en.published.md). The publisher invites sharing. Recording-language comparison remains pending. **Atlas inclusion:** not authorized.
+**Copy status:** The website's English written account is archived as [transcript.en.published.md](transcript.en.published.md). The publisher invites sharing. Recording-language comparison remains pending.

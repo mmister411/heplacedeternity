@@ -34,7 +34,7 @@ The file `source_discovery_register.tsv` records the exact name as listed, provi
 
 Current testimony and Atlas dispositions are recorded in the [Testimony Tracker](testimony_tracker.md). The `atlas_*` fields in this first-pass register preserve their original discovery-stage values.
 
-**Subsequent collection update:** Four hosted English versions of Angelica Zambrano's first through fourth reported experiences are now copied into [her witness folder](angelica-zambrano/readme.md), with source URLs, version notes, and explicit copy/share invitations from the hosting publishers. This is a later ingestion step, separate from the 59-name first-pass discovery register; the fourth published telling is explicitly partial. No Atlas inclusion was approved. Other public leads remain mere pointers until their content is separately acquired.
+**Collection holdings (17 November 2026):** Four Angelica Zambrano English published texts, including the explicitly partial fourth telling, are archived in [her witness folder](angelica-zambrano/readme.md). The other twelve historical corpus units now have their own witness folders with external full-text, media, and publication leads; see the [source manifest](source_manifest.tsv) and [person collections](readme.md). Their full texts have not been copied into this repository.
 
 ## Atlas inclusion is a separate decision
 
@@ -53,4 +53,4 @@ Every prospect in this discovery register is currently `U`. The two already-inge
 7. Prepare any proposed Atlas inclusion separately for the author's approval; do not add material to the Atlas register before that decision.
 8. After Atlas approval, validate indexes and record the precise approved scope and remaining source questions.
 
-**Original first-pass status:** source discovery only. **Later testimony collection:** four Zambrano English texts archived. **Phenomena added to Atlas from these intakes:** zero. **Existing 426 Atlas records changed:** zero.
+**Original first-pass status:** source discovery only. **Later testimony collection:** four Zambrano English texts archived, twelve other corpus units linked by source registers. **Phenomena added to Atlas from these intakes:** zero. **Existing 426 Atlas records changed:** zero.
