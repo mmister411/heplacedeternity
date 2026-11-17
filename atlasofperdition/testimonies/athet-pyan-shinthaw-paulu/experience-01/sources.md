@@ -15,3 +15,8 @@
 ## Matching published wording
 
 - **APY:** [Athet Pyan Shinthaw Paul, HeavenVisit English translation](https://heavenvisit.com/Athet_Pyan_Shinthaw_Paul.php). Title and 'translation of a taped testimony' introductory paragraph. Archive attribution: [recorded source](https://heavenvisit.com/Athet_Pyan_Shinthaw_Paul.php). Alternate: [reading copy](https://www.identitynetwork.net/apps/articles/default.asp?articleid=22162&blogid=0&fldAuthor=&fldKeywords=&fldTopic=0&link=1&view=post). Identity Network hosts the same translated introductory wording; distinguish editors' preface from witness testimony.
+## Collected source files
+
+- [insightsofgod-english.pdf](source-copies/insightsofgod-english.pdf) — [PDF source](https://www.insightsofgod.com/downloads/formerbuddhist.pdf); SHA-256 `0796a6594497eb0fb73805d8da012109be2c35235f9851d9e26ae2b2fee45b3f`.
+- [divinerevelations-english.pdf](source-copies/divinerevelations-english.pdf) — [PDF source](https://www.divinerevelations.info/pdf/former_buddhist.pdf); SHA-256 `0796a6594497eb0fb73805d8da012109be2c35235f9851d9e26ae2b2fee45b3f`.
+- [identitynetwork-translation.md](source-copies/identitynetwork-translation.md) — [HTML source](https://www.identitynetwork.net/apps/articles/default.asp?articleid=22162&blogid=0&fldAuthor=&fldKeywords=&fldTopic=0&link=1&view=post); SHA-256 `11c2e031c6fccce0c91181d88d747a59e06ec193239da7ba72a690f6ed7ec723`. HTML body to GFM via pandoc.

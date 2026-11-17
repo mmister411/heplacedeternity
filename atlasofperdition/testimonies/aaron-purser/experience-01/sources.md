@@ -13,3 +13,6 @@
 ## Matching published wording
 
 - **PUR:** [A Visit to Hell, reproduced on Ecency by seyiodus](https://ecency.com/@seyiodus/aaron-purser-a-visit-to-hell). PRELUDE and 26 June 2013 description of four companions and descending hole. Archive attribution: [recorded source](https://spiritreports.blogspot.com/2019/01/aaron-purser.html). Original Spirit Reports attribution is not accessible to the fetcher; Ecency is a later repost with matching opening.
+## Collected source files
+
+- [ecency-a-visit-to-hell.md](source-copies/ecency-a-visit-to-hell.md) — [HTML source](https://ecency.com/@seyiodus/aaron-purser-a-visit-to-hell); SHA-256 `659cdb8c0746497d2b4387fcddab9e14b634ddce80a0146d0535aadbb7d2da81`. HTML body to GFM via pandoc.

@@ -19,3 +19,6 @@
 ## Matching published wording
 
 - **AZ2:** [Angelica Zambrano 2, second experience, English video text](https://www.heavenvisit.net/angelica-zambrano-2.html). Jan. 4, 2010 time line and 'the media arrived' opening. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano-2.html). Alternate: [reading copy](https://fcflasu.wordpress.com/2012/06/26/angelica-zambranos-2nd-experience-in-heaven-and-hell/). Alternate WordPress page reproduces the same opening of the second experience.
+## Collected source files
+
+- [fcflasu-second.md](source-copies/fcflasu-second.md) — [HTML source](https://fcflasu.wordpress.com/2012/06/26/angelica-zambranos-2nd-experience-in-heaven-and-hell/); SHA-256 `0f31aa288e1e0fd25e90cb6aa6623b12528fc8c57b1a4cf0b57c3e4379a524cf`. HTML body to GFM via pandoc.

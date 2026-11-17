@@ -16,3 +16,8 @@
 ## Matching published wording
 
 - **WIE:** [23 Minutes in Hell, Kansas City oral-transcript PDF](https://www.insightsofgod.com/downloads/bill_wiese_23_minutes_in_hell_englishpdf.pdf). Announcer introduction 'You're going to hear the vision of Hell' and audio-transcript framing. Archive attribution: [recorded source](http://www.heavenvisit.net/bill-wiese2.html). Alternate: [reading copy](https://gojes.us/pdf/bill_wiese_23_minutes_in_hell_english_text.pdf). This is the speech transcription of the Kansas City presentation, not the separate commercial book.
+## Collected source files
+
+- [insightsofgod-kansas-city.pdf](source-copies/insightsofgod-kansas-city.pdf) — [PDF source](https://www.insightsofgod.com/downloads/bill_wiese_23_minutes_in_hell_englishpdf.pdf); SHA-256 `c4b5c615bc7033a8dc2985aed91130cde25a2fba73237629696206dfdcde9224`.
+- [gojes-kansas-city.pdf](source-copies/gojes-kansas-city.pdf) — [PDF source](https://gojes.us/pdf/bill_wiese_23_minutes_in_hell_english_text.pdf); SHA-256 `16beae929069ed00defaf6dd01f85b8b430253444a6290bd7b30075b544f2ff5`.
+- [soulchoice-eight-minute.md](source-copies/soulchoice-eight-minute.md) — [HTML source](https://soulchoiceministries.org/teachings/23-minutes-hell-8-minute-version/); SHA-256 `a5f2b6fc47d5981851fc436b31f63f9e7f8b716b05d6ebf08378df7c2cd0217c`. HTML body to GFM via pandoc.

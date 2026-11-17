@@ -15,3 +15,8 @@
 ## Matching published wording
 
 - **PER:** [Hell is Real, I Went There, Insights of God English PDF](https://www.insightsofgod.com/downloads/english_jennifer_perez.pdf). Opening includes 'My name is Jennifer Perez and I’m 15 years old', absent from alternate DivineRevelations PDF. Archive attribution: divinerevelations.info (domain named in compilation). Alternate: [reading copy](https://www.divinerevelations.info/documents/jennifer_perez/Hell_is_Real_I_Went_There_Jennifer_Perez.pdf). The alternate PDF omits the witness-name phrase; prefer Insights of God as wording match.
+## Collected source files
+
+- [insightsofgod-english.pdf](source-copies/insightsofgod-english.pdf) — [PDF source](https://www.insightsofgod.com/downloads/english_jennifer_perez.pdf); SHA-256 `fdae58c97d58e48432f02d74dcfae9c59707cfcc3d3a2bd42fb4f07697a78dce`.
+- [divinerevelations-english.pdf](source-copies/divinerevelations-english.pdf) — [PDF source](https://www.divinerevelations.info/documents/jennifer_perez/Hell_is_Real_I_Went_There_Jennifer_Perez.pdf); SHA-256 `8636ccdd54ef3ec770482125d4607957580c6cf186e81f4aef724190ef178de8`.
+- [christiscoming-english.md](source-copies/christiscoming-english.md) — [HTML source](https://christiscoming.net/2016/05/27/hell-is-real-i-went-there-testimony-of-jennifer-perez/); SHA-256 `60de666766ef6eb741e9b299de2cb53627af8a3861d7c7d5f77f6a89c86ec46f`. HTML body to GFM via pandoc.

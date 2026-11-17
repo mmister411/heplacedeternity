@@ -15,3 +15,6 @@
 ## Matching published wording
 
 - **PAR:** [Young Moon Park, HeavenVisit English page](https://heavenvisit.com/Young_Moon_Park.php). April 3, 1986 opening and horse-drawn carriage narrative. Archive attribution: [recorded source](https://heavenvisit.com/Young_Moon_Park.php). Alternate: [reading copy](https://christiscoming.net/2017/01/01/testimony-of-heaven-hell-by-young-moon-park-atheist-wake-up-call/). Alternate current full-text reproduction is accessible.
+## Collected source files
+
+- [christiscoming-heaven-and-hell.md](source-copies/christiscoming-heaven-and-hell.md) — [HTML source](https://christiscoming.net/2017/01/01/testimony-of-heaven-hell-by-young-moon-park-atheist-wake-up-call/); SHA-256 `6e87abe16913ce46775ba3746b3d1a35bc144e417678f48748f855f1fe3e61e8`. HTML body to GFM via pandoc.

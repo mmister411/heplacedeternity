@@ -19,3 +19,8 @@ Both reported journeys appear in the linked accounts. Source variants share the 
 ## Matching published wording
 
 - **FER:** [Prepare for the Lord's Return!, Bernarda Fernandez English two-journey PDF](https://www.freedvdtracts.com/documents/Bernadda_Fernandez_Prepare_for_the_Lords_Return.pdf). First-journey lead-in and 'THIS IS THE TESTIMONY OF MY FIRST JOURNEY' plus second-journey section. Archive attribution: [recorded source](https://heavenvisit.com/Bernada_Fernandez.php). Alternate: [reading copy](https://freecdtracts.com/Testimony/bernarda_fernandez.html). The Insights of God PDF has a different editorial lead-in; the FreeDVDTracts PDF matches the compilation lead-in.
+## Collected source files
+
+- [freedvdtracts-two-journeys.pdf](source-copies/freedvdtracts-two-journeys.pdf) — [PDF source](https://www.freedvdtracts.com/documents/Bernadda_Fernandez_Prepare_for_the_Lords_Return.pdf); SHA-256 `4c62e255861d207ce493b9a0d28322584cfd937e372ef5394f1f32ad6cd71ce6`.
+- [insightsofgod-two-journeys.pdf](source-copies/insightsofgod-two-journeys.pdf) — [PDF source](https://www.insightsofgod.com/downloads/bernardatestimony.pdf); SHA-256 `267f76a9178cf8b0765420166976af0474fe2865295a21fe9543108687bcef2e`.
+- [freecdtracts-two-journeys.md](source-copies/freecdtracts-two-journeys.md) — [HTML source](https://freecdtracts.com/Testimony/bernarda_fernandez.html); SHA-256 `d7906cfbd52bc2af56b55bacf3d1060db9476277d1829ff7e1884005e05f4ab4`. HTML body to GFM via pandoc.

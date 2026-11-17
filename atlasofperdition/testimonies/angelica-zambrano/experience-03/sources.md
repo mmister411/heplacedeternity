@@ -19,3 +19,6 @@
 ## Matching published wording
 
 - **AZ3:** [Angelica Zambrano 3, third experience, English video text](https://www.heavenvisit.net/angelica-zambrano-3.html). Prayer-and-fasting heading and 'my loyal friend, the Holy Spirit' opening. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano-3.html). Original indexed page preserves distinctive wording; no independently accessible full-text mirror verified in this pass.
+## Collected source files
+
+- [branham-italian-third.pdf](source-copies/branham-italian-third.pdf) — [PDF source](https://www.branham.it/joomla/documenti/testimonianze/angelicazambrano3.pdf); SHA-256 `40b384cc4c70ed81ebcbe072fa969a920980f7d51701a1981c3ed2e30399c26c`.

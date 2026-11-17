@@ -15,3 +15,8 @@
 ## Matching published wording
 
 - **ALB:** [I Walked in Hell, Free CD Tracts transcription](https://freecdtracts.com/Testimony/Aline_Baxley.htm). Heading THE ACCIDENT and opening 'I received the Lord in my life when I was eleven years old'; 'left the church' wording. Archive attribution: [recorded source](https://heavenvisit.com/Aline_Baxley_2.php). Alternate: [reading copy](https://www.insightsofgod.com/downloads/aline_baxleyhell.pdf). Original cited HeavenVisit PHP link did not fetch; the PDFs differ slightly ('left church') in the first paragraph.
+## Collected source files
+
+- [insightsofgod-english.pdf](source-copies/insightsofgod-english.pdf) — [PDF source](https://www.insightsofgod.com/downloads/aline_baxleyhell.pdf); SHA-256 `1219d4fd82fc67ed2aa9fa581db043ad09ec616fc8fee9b7e5e4b0b315d22af3`.
+- [divinerevelations-english.pdf](source-copies/divinerevelations-english.pdf) — [PDF source](https://www.divinerevelations.info/pdf/aline_baxley_hell.pdf); SHA-256 `1219d4fd82fc67ed2aa9fa581db043ad09ec616fc8fee9b7e5e4b0b315d22af3`.
+- [freecdtracts-i-walked-in-hell.md](source-copies/freecdtracts-i-walked-in-hell.md) — [HTML source](https://freecdtracts.com/Testimony/Aline_Baxley.htm); SHA-256 `1dbf9a48a4f62b02aeff18f819fbe7514dd107389bb6f4a8d8222290accf1521`. HTML body to GFM via pandoc.

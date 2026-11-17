@@ -16,3 +16,6 @@
 ## Matching published wording
 
 - **MEL:** [Destiny Image, He Died & Saw Hitler in Hell, excerpt credited to Randy Kay and Shaun Tabatt](https://www.destinyimage.com/blog/randy-kay-shaun-tabatt-he-died-saw-hitler-in-hell). Identical introductory paragraph and distinctive 'lizard breath' / doorway passages. The compilation is this anthology excerpt, not a demonstrated excerpt from Melvin's In a Land Unknown; source text itself identifies a book by Kay and Tabatt.
+## Collected source files
+
+- [destinyimage-he-died-and-saw-hitler.md](source-copies/destinyimage-he-died-and-saw-hitler.md) — [HTML source](https://www.destinyimage.com/blog/randy-kay-shaun-tabatt-he-died-saw-hitler-in-hell); SHA-256 `93dc225166580f11232da1e056b5109f72bb0711b3aceab03031bbf44ef33e9d`. HTML body to GFM via pandoc.

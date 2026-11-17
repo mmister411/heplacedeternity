@@ -22,6 +22,7 @@ The collection is organized by **person → distinct reported experience → tex
 
 ## Source discovery
 
+- [Local source-copy register](source_copy_register.tsv): Retrieved PDFs and Markdown conversions, with URLs, byte counts, and checksums.
 - [Matching-edition source register](edition_match_register.md): Publication links corresponding to the collector's wording, with access and variant notes.
 - [Consolidated source manifest](source_manifest.tsv): Source artifacts, including 21 verbatim extracts from the collector's compilation for the 16 previously processed units, with provenance and copy paths.
 - [Compilation provenance and checksums](compilation_provenance.md): Exact extract boundaries, master-file hash, and per-file SHA-256 values.

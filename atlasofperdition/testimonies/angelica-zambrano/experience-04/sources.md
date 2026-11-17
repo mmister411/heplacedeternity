@@ -21,3 +21,6 @@
 ## Matching published wording
 
 - **AZ4:** [Angelica Zambrano 4, fourth experience, English text](https://www.heavenvisit.net/angelica-zambrano-4.html). 'Amgelica' byline, fourth-experience introduction, and first greeting. Archive attribution: [recorded source](http://www.heavenvisit.net/angelica-zambrano-4.html). Alternate: [reading copy](https://divinebase.com/The%20Book%20Of%20Angelica%20Zambrano%204.htm). The Divinebase text has matching subject and opening but modernized punctuation.
+## Collected source files
+
+- [divinebase-fourth.md](source-copies/divinebase-fourth.md) — [HTML source](https://divinebase.com/The%20Book%20Of%20Angelica%20Zambrano%204.htm); SHA-256 `fcba4dd49b24937eaef1718ee3c193a02f4a66cfe17e613e8c12fbebd9d15236`. HTML body to GFM via pandoc.

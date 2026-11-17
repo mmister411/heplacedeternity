@@ -15,3 +15,6 @@
 ## Matching published wording
 
 - **KNI:** [CBN, A Wake-up Call from Hell, by Michelle Wilson](https://cbn.com/article/not-selected/wake-call-hell). Opening 'Hell is definitely real. Real. Very much real.' and Valium-overdose description. Archive attribution: [recorded source](http://www.heavenvisit.net/carl-knighton.html). Alternate: [reading copy](https://cbn.com/video/700-club/wake-call-hell). A media article with witness quotations, not a first-person transcript.
+## Collected source files
+
+- [cbn-wake-up-call.md](source-copies/cbn-wake-up-call.md) — [HTML source](https://cbn.com/article/not-selected/wake-call-hell); SHA-256 `9aa57ec3c4e88db2c739c1a3a6a10f2b563333dac3c0c0088474d75c4a3baeae`. HTML body to GFM via pandoc.

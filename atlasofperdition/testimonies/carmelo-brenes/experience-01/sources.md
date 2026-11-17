@@ -15,3 +15,7 @@
 ## Matching published wording
 
 - **BRE:** [Rescued from Hell, Insights of God English PDF](https://www.insightsofgod.com/downloads/carmelo_brenes_englishpdf.pdf). Church of God of the Full Gospel introduction and 'In the year of 1982' wording. Archive attribution: [recorded source](https://www.insightsofgod.com/html_testimonies/carmelo_brenes.htm). The cited HTML version uses 'Our Church' / 'In 1982', so the PDF is the closer English edition.
+## Collected source files
+
+- [insightsofgod-english.pdf](source-copies/insightsofgod-english.pdf) — [PDF source](https://www.insightsofgod.com/downloads/carmelo_brenes_englishpdf.pdf); SHA-256 `cbe3d07d262982b0957864dd967a8e3cdda19a47ba2b08c53aff594d7ecf0e83`.
+- [insightsofgod-html-version.md](source-copies/insightsofgod-html-version.md) — [HTML source](https://www.insightsofgod.com/html_testimonies/carmelo_brenes.htm); SHA-256 `e5a7a015385b4742f811d54533a6ceab6040ae10e7ec1fe99f90bdd7a84f12a1`. HTML body to GFM via pandoc.
