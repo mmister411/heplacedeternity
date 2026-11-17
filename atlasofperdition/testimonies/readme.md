@@ -13,6 +13,6 @@ The collection is organized by **person → distinct reported experience → tex
 - [Source discovery register](source_discovery_register.tsv): 59 names from the collector's list, with up to two source leads per entry (101 distinct URLs). Source identification and topic categories are still being checked.
 - [Discovery notes and intake boundaries](source_discovery_notes.md): Sources located, unresolved names, attribution rules, and conditions for collecting full testimony texts.
 
-## Atlas inclusion
+## Tracking
 
-The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) is used to evaluate testimony material for the *Atlas of Perdition*. Inclusion requires the Atlas author's approval.
+The [testimony tracker](testimony_tracker.md) links collected experiences, account versions, described phenomena, and Atlas inclusion decisions.
