@@ -6,11 +6,12 @@
 | Experience | Third reported visit to Heaven and Hell |
 | Event date | **Not independently established**; one mirror labels a related video as recorded 6 July 2010 |
 | English testimony | [HeavenVisit third-experience narrative](https://www.heavenvisit.net/angelica-zambrano-3.html) |
-| Collection status | Written texts and recording leads located; original-language comparison pending |
+| Collection status | Published English account archived as [transcript.en.published.md](transcript.en.published.md); original-language comparison pending |
 | Atlas disposition | **Not included; author/user approval required** |
 
 The narrative explicitly describes this as an additional experience after earlier reported visits. It includes a representation of the condition of churches and a visit to an area described as the **heart of Hell**.
 
+- [Archived English published account](transcript.en.published.md)
 - [Sources and version relationships](sources.md)
 - [Working account outline](account-outline.md)
 
