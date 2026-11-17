@@ -288,7 +288,7 @@ def validated_records():
 
 def write_index(source, classes, assigned, cross):
     fields = [
-        "record_id", "source_id", "witness", "source_line", "primary_division",
+        "record_id", "poe_id", "source_id", "witness", "source_line", "primary_division",
         "subclass_code", "subclass_name", "analytical_role", "facets",
         "related_subclasses", "evidence_mode", "scripture_reference",
         "scripture_correspondence", "lemma", "reported_properties",
@@ -303,7 +303,7 @@ def write_index(source, classes, assigned, cross):
             for related in companion_codes:
                 facets.update(classes[related][5].split("|"))
             out.writerow({
-                "record_id": r["id"], "source_id": r["source_id"],
+                "record_id": r["id"], "poe_id": r["poe_id"], "source_id": r["source_id"],
                 "witness": r["source"], "source_line": r["source_line"],
                 "primary_division": r["category"], "subclass_code": code,
                 "subclass_name": classes[code][1], "analytical_role": classes[code][4],
