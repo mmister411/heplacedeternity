@@ -6,6 +6,7 @@ locate passages, never as independent evidence for a phenomenon.
 """
 
 from collections import Counter, defaultdict
+import argparse
 import csv
 import json
 from pathlib import Path
@@ -136,10 +137,12 @@ def read_motifs(items):
     return motifs
 
 
-def write_outputs(items, motifs):
+def write_outputs(items, motifs, views=False):
     with JSONL.open("w", encoding="utf-8") as out:
         for item in items:
             out.write(json.dumps(item, ensure_ascii=False) + "\n")
+    if not views:
+        return
 
     per_source = defaultdict(list)
     per_lemma = defaultdict(lambda: defaultdict(list))
@@ -250,9 +253,12 @@ def write_outputs(items, motifs):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--views", action="store_true", help="Also generate readable Markdown reports")
+    args = parser.parse_args()
     data = read_curated()
     groupings = read_motifs(data)
-    write_outputs(data, groupings)
+    write_outputs(data, groupings, views=args.views)
     print(f"Validated {len(data)} individual entries in {len(set(x['source_id'] for x in data))} source units")
     print(f"Validated {len(groupings)} cross-witness motif families")
-    print(f"Saved {JSONL.name}, {REPORT.name}, and {CONCORDANCE.name}")
+    print(f"Saved {JSONL.name}" + (f", {REPORT.name}, {CONCORDANCE.name}" if args.views else ""))

@@ -11,7 +11,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-SOURCE = ROOT / "upload" / "Pasted text(20261116-025409).txt"
+SOURCE = ROOT.parent / "testimonies" / "_intake" / "Experiences_1.txt"
 OUTPUT = ROOT / "atlas_lexical_concordance.csv"
 
 # Inclusive line spans in the attached compilation, from its dated sections.

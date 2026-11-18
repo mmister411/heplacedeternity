@@ -44,7 +44,7 @@ Classification follows the reported content, with multiple values where necessar
 | Described element | Place or region; boundary or passage; being or person; object or implement; event or operation; bodily condition; sensory quality; speech or communication; other |
 | Relation | Within; adjacent to; leads to; precedes; follows; acts upon; causes; restrains; contains; resembles; refers to; other |
 | Evidence and attribution | Who states it, which account carries it, the passage anchor, and the established O/F/H/K/S/I knowledge mode when assigned |
-| Atlas locus | Infernal proper; threshold/transit; operationally adjacent; non-infernal; undetermined, as defined by the [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) |
+| Atlas locus | Infernal proper; threshold/transit; operationally adjacent; non-infernal; undetermined |
 
 Reported modes, settings, and subjects are separate classifications. A heavenly scene in a mixed account remains heavenly; a threshold scene receives its own locus. More specific categories can be added as the accounts require.
 
@@ -120,26 +120,8 @@ Collection is open to potential valid optasiological events (VOEs), including dr
 
 The 16 corpus units above were processed previously. This tracker begins recording new processing authorizations as they occur.
 
-## Assessment and Atlas disposition
+## POE review and subsequent extraction
 
-The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) scores the descriptive yield of each passage or scene on U or 0–4. Record its infernal locus and source anchor separately.
+The root [POE register](../../poe_register.tsv) identifies reported experiences and records the author's decisions: `pending`, `valid`, or `unusable`. The collection retains source copies and versions separately. Accepted VOEs may be examined for reported phenomena, speech, conditions, and relationships, retaining source anchors and distinctions among witnesses and accounts.
 
-Atlas inclusion is a later, separate authorial decision. The author approves inclusion for a **specified scope**. A proposal can be made during analysis; approval, approval with conditions, deferral, or rejection is recorded only from the Atlas author's decision. A blank decision field means no decision has been recorded.
-
-| Decision ID | Proposed passage(s) or phenomena | Account and source anchor | AIM / locus | Decision | Author's decision reference and date | Approved scope / Atlas location |
-|---|---|---|---|---|---|---|
-
-No new inclusion decisions are recorded for AZ-01 through AZ-04.
-
-The discovery register also identifies Mary K. Baxter (PROS-032) and Park Young Moon (PROS-042) as represented in the existing Atlas corpus. Their historic records remain in the apparatus; passage-specific decisions can be entered here when examined.
-
-## Adding records
-
-1. Collect a possible VOE and identify the person, reported experience, account, and source. Reuse an existing experience ID for another telling of the same occurrence.
-2. Record language, translation, editing, completeness, provenance, and dates where known. Collection may end here.
-3. If the author approves processing, record the scope and instruction in the processing authorization table.
-4. Within that approved scope, anchor scenes and statements to passages or timestamps, then classify reported modes, settings, described features, and relations.
-5. Record AIM findings against passages or scenes. Prepare any proposed Atlas entries with their exact source anchors.
-6. Record a separate author decision for Atlas inclusion, including date, reference, and approved scope. If a decision changes, add a new entry referring to the earlier decision.
-
-The tables can be split into separate machine-readable registers as the collection grows, retaining the same IDs and relations. The source discovery register retains the original first-pass research statuses. Future narrative use in the *He Placed Eternity* volumes remains a separate authorial undertaking.
+The discovery register and historical extraction identifiers remain available for provenance. Their legacy assessment and approval fields describe the earlier research procedure; they do not supersede POE status or require a second admission decision.
