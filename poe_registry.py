@@ -15,12 +15,16 @@ inferred or possible identifications. Locations may overlap or nest.
 import argparse
 import csv
 from datetime import date
+import hashlib
 from pathlib import Path
 import re
 
 
 ROOT = Path(__file__).resolve().parent
 REGISTER = ROOT / "poe_register.tsv"
+SOURCE_COPY_REGISTER = ROOT / "atlasofperdition" / "testimonies" / "source_copy_register.tsv"
+TESTIMONY_ROOT = SOURCE_COPY_REGISTER.parent
+SOURCE_MANIFEST = TESTIMONY_ROOT / "source_manifest.tsv"
 STATUSES = {"pending", "valid", "unusable"}
 FEATURES = (
     "heaven", "hell", "lake_of_fire", "celestial_city", "new_jerusalem",
@@ -69,6 +73,92 @@ def show(rows):
         print(f"{row['poe_id']}\t{row['decision_status']}\t{row['witness']}\t{row['title']}\t{locations}")
 
 
+def verified_copy(artifact, relative_name, expected_sha, errors, expected_bytes=None):
+    relative = Path(relative_name)
+    if relative.is_absolute() or ".." in relative.parts or not relative.parts:
+        errors.append(f"Unsafe source path: {artifact}")
+        return False
+    path = TESTIMONY_ROOT / relative
+    if not path.resolve().is_relative_to(TESTIMONY_ROOT.resolve()):
+        errors.append(f"Source path leaves testimony collection: {artifact}")
+        return False
+    if not path.is_file():
+        errors.append(f"Missing source file: {artifact}")
+        return False
+    data = path.read_bytes()
+    if (expected_bytes is not None and str(len(data)) != expected_bytes) or hashlib.sha256(data).hexdigest() != expected_sha:
+        errors.append(f"Source size or checksum mismatch: {artifact}")
+        return False
+    return True
+
+
+def audit_intake(rows):
+    """Audit acquired documents; source extent and human review remain separate."""
+    by_id = {r["poe_id"]: r["poe_id"] for r in rows}
+    by_id.update({r["legacy_id"]: r["poe_id"] for r in rows if r["legacy_id"]})
+    copies = {r["poe_id"]: [] for r in rows}
+    compilations = {r["poe_id"]: [] for r in rows}
+    errors = []
+    with SOURCE_COPY_REGISTER.open(newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        required = {"artifact_id", "experience_id", "repository_copy", "bytes", "sha256"}
+        if not required.issubset(reader.fieldnames or []):
+            raise ValueError("Source-copy register lacks required columns")
+        seen_artifacts = set()
+        for source in reader:
+            artifact = source["artifact_id"]
+            if artifact in seen_artifacts:
+                errors.append(f"Duplicate source artifact: {artifact}")
+            seen_artifacts.add(artifact)
+            if not verified_copy(artifact, source["repository_copy"], source["sha256"], errors, source["bytes"]):
+                continue
+            for experience_id in source["experience_id"].split("|"):
+                poe_id = by_id.get(experience_id)
+                if poe_id is None:
+                    errors.append(f"Unmatched source experience: {artifact} / {experience_id}")
+                else:
+                    copies[poe_id].append(artifact)
+
+    # The collector's original intake compilation is a testimony document too.
+    # Its distinct excerpts are indexed in the source manifest, not the copy register.
+    with SOURCE_MANIFEST.open(newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        required = {"artifact_id", "experience_or_work_id", "repository_copy", "collection_state", "source_note"}
+        if not required.issubset(reader.fieldnames or []):
+            raise ValueError("Source manifest lacks required columns")
+        for source in reader:
+            if source["collection_state"] != "compilation_extract":
+                continue
+            artifact = source["artifact_id"]
+            match = re.search(r"sha256=([0-9a-f]{64})", source["source_note"])
+            if not match:
+                errors.append(f"Missing compilation checksum: {artifact}")
+                continue
+            if not verified_copy(artifact, source["repository_copy"], match.group(1), errors):
+                continue
+            if "editorial-" in Path(source["repository_copy"]).name:
+                continue
+            for experience_id in source["experience_or_work_id"].split("|"):
+                poe_id = by_id.get(experience_id)
+                if poe_id:
+                    compilations[poe_id].append(artifact)
+
+    print("poe_id\tintake_evidence\tsource_copies\tcompilation_units\twitness")
+    for row in rows:
+        found = copies[row["poe_id"]]
+        compiled = compilations[row["poe_id"]]
+        status = "source_copy_acquired" if found else "compilation_only" if compiled else "incomplete_no_document"
+        print(f"{row['poe_id']}\t{status}\t{len(found)}\t{len(compiled)}\t{row['witness']}")
+    with_copies = sum(bool(found) for found in copies.values())
+    compiled_only = sum(not copies[key] and bool(compilations[key]) for key in copies)
+    missing = len(rows) - with_copies - compiled_only
+    print(f"Intake: {with_copies} source-copy, {compiled_only} compilation-only, {missing} without documents; {len(errors)} source errors")
+    for error in errors:
+        print(f"ERROR: {error}")
+    if errors:
+        raise ValueError("Source-copy intake audit failed")
+
+
 def save(fields, rows):
     with REGISTER.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fields, delimiter="\t", lineterminator="\n")
@@ -82,6 +172,7 @@ def main():
     listing = commands.add_parser("list", help="List POEs, optionally by status")
     listing.add_argument("--status", choices=sorted(STATUSES))
     commands.add_parser("eligible", help="List valid VOEs eligible for analysis")
+    commands.add_parser("intake", help="Audit acquired testimony copies per POE")
     change = commands.add_parser("set", help="Record an explicit human decision")
     change.add_argument("poe_id")
     change.add_argument("status", choices=sorted(STATUSES))
@@ -104,6 +195,8 @@ def main():
         show([r for r in rows if not args.status or r["decision_status"] == args.status])
     elif args.command == "eligible":
         show([r for r in rows if r["decision_status"] == "valid"])
+    elif args.command == "intake":
+        audit_intake(rows)
     elif args.command == "add":
         if not args.witness.strip() or not args.title.strip():
             parser.error("Witness and title cannot be empty")
