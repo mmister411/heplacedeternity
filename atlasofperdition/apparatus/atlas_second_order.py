@@ -7,6 +7,7 @@ No existing record ID, primary category, evidence mode, or source line is change
 
 from __future__ import annotations
 
+import argparse
 from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
@@ -423,8 +424,12 @@ def write_architecture(source, classes, assigned, cross):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--views", action="store_true", help="Also generate readable taxonomy report")
+    args = parser.parse_args()
     original, classbook, mapping, references = validated_records()
     write_index(original, classbook, mapping, references)
-    write_architecture(original, classbook, mapping, references)
+    if args.views:
+        write_architecture(original, classbook, mapping, references)
 
 
