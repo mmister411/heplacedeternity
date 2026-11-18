@@ -1,18 +1,18 @@
-poe_id	legacy_id	witness	title	summary	record_kind	heaven	hell	lake_of_fire	decision_status	decision_date	decision_note
-POE-000001	AZ-01	Angelica Zambrano	Reported experience 01		experience	reported	reported	not_reported	valid		
-POE-000002	AZ-02	Angelica Zambrano	Reported experience 02		experience	reported	reported	not_reported	valid		
-POE-000003	AZ-03	Angelica Zambrano	Reported experience 03		experience	reported	reported	reported	valid		
-POE-000004	AZ-04	Angelica Zambrano	Reported experience 04		experience	not_reported	reported	not_reported	valid		
-POE-000005	DAN-01	Daniel Ekechukwu	Reported experience		experience	reported	reported	not_reported	valid		
-POE-000006	BAX-W01	Mary K. Baxter	A Divine Revelation of Hell (source work)		source_work	reported	reported	reported	valid		
-POE-000007	MEL-01	Bryan Melvin	Reported experience		experience	not_reported	reported	not_reported	valid		
-POE-000008	PER-01	Jennifer Perez	Reported experience		experience	reported	reported	not_reported	valid		
-POE-000009	ALB-01	Aline Baxley	Reported experience		experience	reported	reported	reported	valid		
-POE-000010	BRE-01	Carmelo Brenes	Reported experience		experience	not_reported	reported	not_reported	valid		
-POE-000011	PAR-01	Young Moon Park	Reported experience		experience	reported	reported	not_reported	valid		
-POE-000012	APY-01	Athet Pyan Shinthaw Paulu	Reported experience		experience	reported	reported	reported	valid		
-POE-000013	FER-01	Bernarda Fernández	First reported journey		experience	reported	reported	reported	valid		
-POE-000014	FER-02	Bernarda Fernández	Second reported journey		experience	reported	reported	not_reported	valid		
-POE-000015	WIE-01	Bill Wiese	Reported experience		experience	not_reported	reported	not_reported	valid		
-POE-000016	KNI-01	Carl Knighton	Reported experience		experience	not_reported	reported	reported	valid		
-POE-000017	PUR-01	Aaron Purser	Reported experience		experience	not_reported	reported	not_reported	valid
+poe_id	legacy_id	witness	title	summary	record_kind	heaven	hell	lake_of_fire	celestial_city	new_jerusalem	new_earth	outer_darkness	sheol	paradise	location_basis	decision_status	decision_date	decision_note
+POE-000001	AZ-01	Angelica Zambrano	Reported experience 01		experience	reported	reported	not_reported	inferred	possible	not_reported	not_reported	not_reported	not_reported	celestial_city: gold city, bridge, streets, and mansions in Heaven; new_jerusalem: Rev. 21 resemblance, unnamed	valid		
+POE-000002	AZ-02	Angelica Zambrano	Reported experience 02		experience	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000003	AZ-03	Angelica Zambrano	Reported experience 03		experience	reported	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000004	AZ-04	Angelica Zambrano	Reported experience 04		experience	possible	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	heaven: vessels and white horses in unnamed visionary settings	valid		
+POE-000005	DAN-01	Daniel Ekechukwu	Reported experience		experience	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000006	BAX-W01	Mary K. Baxter	A Divine Revelation of Hell (source work)		source_work	reported	reported	reported	possible	reported	reported	reported	not_reported	not_reported	celestial_city: New Jerusalem is seen on the New Earth; identity with Celestial City remains open	valid		
+POE-000007	MEL-01	Bryan Melvin	Reported experience		experience	possible	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	heaven: claimed by editorial introduction; no Heaven scene in supplied extract	valid		
+POE-000008	PER-01	Jennifer Perez	Reported experience		experience	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	reported		valid		
+POE-000009	ALB-01	Aline Baxley	Reported experience		experience	reported	reported	reported	not_reported	not_reported	not_reported	reported	not_reported	reported	paradise: lights observed at a distance; no entry narrated	valid		
+POE-000010	BRE-01	Carmelo Brenes	Reported experience		experience	not_reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000011	PAR-01	Young Moon Park	Reported experience		experience	reported	reported	not_reported	possible	not_reported	not_reported	not_reported	not_reported	not_reported	celestial_city: extensive ordered golden houses in Heaven, but no city named	valid		
+POE-000012	APY-01	Athet Pyan Shinthaw Paulu	Reported experience		experience	reported	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000013	FER-01	Bernarda Fernández	First reported journey		experience	reported	reported	reported	possible	reported	not_reported	not_reported	not_reported	reported	celestial_city: New Jerusalem is visited in Paradise; identity with Celestial City remains open	valid		
+POE-000014	FER-02	Bernarda Fernández	Second reported journey		experience	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	reported		valid		
+POE-000015	WIE-01	Bill Wiese	Reported experience		experience	not_reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000016	KNI-01	Carl Knighton	Reported experience		experience	not_reported	reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
+POE-000017	PUR-01	Aaron Purser	Reported experience		experience	not_reported	reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported	not_reported		valid		
