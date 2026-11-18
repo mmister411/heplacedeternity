@@ -3,6 +3,13 @@
 
 Run from any working directory. The source intake and existing research files
 remain unchanged. Decisions live only in poe_register.tsv.
+
+Location flags concern the reported experience, not its files. "reported" means
+a location is explicitly identified in a witnessed scene; "inferred" means its
+identity follows from the described setting; "possible" marks a weaker clue.
+"not_reported" means no sufficient indication in the reviewed source;
+"unassessed" means the location has not been evaluated. Keep a short basis for
+inferred or possible identifications. Locations may overlap or nest.
 """
 
 import argparse
@@ -15,10 +22,17 @@ import re
 ROOT = Path(__file__).resolve().parent
 REGISTER = ROOT / "poe_register.tsv"
 STATUSES = {"pending", "valid", "unusable"}
-FEATURES = ("heaven", "hell", "lake_of_fire")
-FEATURE_STATES = {"unassessed", "reported", "not_reported"}
+FEATURES = (
+    "heaven", "hell", "lake_of_fire", "celestial_city", "new_jerusalem",
+    "new_earth", "outer_darkness", "sheol", "paradise",
+)
+# These states describe location evidence, independent of the human POE decision.
+FEATURE_STATES = {"unassessed", "reported", "inferred", "possible", "not_reported"}
 ID_PATTERN = re.compile(r"POE-([0-9]{6})$")
-FIELDS = ["poe_id", "legacy_id", "witness", "title", "summary", "record_kind", "heaven", "hell", "lake_of_fire", "decision_status", "decision_date", "decision_note"]
+FIELDS = [
+    "poe_id", "legacy_id", "witness", "title", "summary", "record_kind",
+    *FEATURES, "location_basis", "decision_status", "decision_date", "decision_note",
+]
 
 
 def load():
@@ -49,8 +63,10 @@ def load():
 
 def show(rows):
     for row in rows:
-        reported = ",".join(f for f in FEATURES if row[f] == "reported") or "-"
-        print(f"{row['poe_id']}\t{row['decision_status']}\t{row['witness']}\t{row['title']}\t{reported}")
+        locations = ",".join(
+            f"{f}:{row[f]}" for f in FEATURES if row[f] in {"reported", "inferred", "possible"}
+        ) or "-"
+        print(f"{row['poe_id']}\t{row['decision_status']}\t{row['witness']}\t{row['title']}\t{locations}")
 
 
 def save(fields, rows):
@@ -70,7 +86,7 @@ def main():
     change.add_argument("poe_id")
     change.add_argument("status", choices=sorted(STATUSES))
     change.add_argument("--note", default="")
-    mark = commands.add_parser("set-feature", help="Record whether a testimony reports a top-level realm")
+    mark = commands.add_parser("set-feature", help="Record a top-level location assessment")
     mark.add_argument("poe_id")
     mark.add_argument("feature", choices=FEATURES)
     mark.add_argument("state", choices=sorted(FEATURE_STATES))
