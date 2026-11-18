@@ -15,8 +15,10 @@ import re
 ROOT = Path(__file__).resolve().parent
 REGISTER = ROOT / "poe_register.tsv"
 STATUSES = {"pending", "valid", "unusable"}
+FEATURES = ("heaven", "hell", "lake_of_fire")
+FEATURE_STATES = {"unassessed", "reported", "not_reported"}
 ID_PATTERN = re.compile(r"POE-([0-9]{6})$")
-FIELDS = ["poe_id", "legacy_id", "witness", "title", "summary", "record_kind", "decision_status", "decision_date", "decision_note"]
+FIELDS = ["poe_id", "legacy_id", "witness", "title", "summary", "record_kind", "heaven", "hell", "lake_of_fire", "decision_status", "decision_date", "decision_note"]
 
 
 def load():
@@ -37,6 +39,9 @@ def load():
     for row in rows:
         if row["decision_status"] not in STATUSES:
             raise ValueError(f"Invalid decision status for {row['poe_id']}")
+        for feature in FEATURES:
+            if row[feature] not in FEATURE_STATES:
+                raise ValueError(f"Invalid {feature} value for {row['poe_id']}")
         if not row["witness"].strip() or not row["title"].strip():
             raise ValueError(f"Witness and title are required for {row['poe_id']}")
     return fields, rows
@@ -44,7 +49,8 @@ def load():
 
 def show(rows):
     for row in rows:
-        print(f"{row['poe_id']}\t{row['decision_status']}\t{row['witness']}\t{row['title']}")
+        reported = ",".join(f for f in FEATURES if row[f] == "reported") or "-"
+        print(f"{row['poe_id']}\t{row['decision_status']}\t{row['witness']}\t{row['title']}\t{reported}")
 
 
 def save(fields, rows):
@@ -64,6 +70,10 @@ def main():
     change.add_argument("poe_id")
     change.add_argument("status", choices=sorted(STATUSES))
     change.add_argument("--note", default="")
+    mark = commands.add_parser("set-feature", help="Record whether a testimony reports a top-level realm")
+    mark.add_argument("poe_id")
+    mark.add_argument("feature", choices=FEATURES)
+    mark.add_argument("state", choices=sorted(FEATURE_STATES))
     create = commands.add_parser("add", help="Register a new prospective experience")
     create.add_argument("--witness", required=True)
     create.add_argument("--title", required=True)
@@ -88,18 +98,24 @@ def main():
         rows.append(dict.fromkeys(FIELDS, "") | {
             "poe_id": new_id, "witness": args.witness.strip(), "title": args.title.strip(),
             "summary": args.summary, "record_kind": args.kind, "decision_status": "pending",
+            **{feature: "unassessed" for feature in FEATURES},
         })
         save(fields, rows)
         print(f"Registered {new_id}: pending")
-    elif args.command == "set":
+    elif args.command in {"set", "set-feature"}:
         match = next((r for r in rows if args.poe_id in {r["poe_id"], r["legacy_id"]}), None)
         if match is None:
             parser.error(f"Unknown POE ID: {args.poe_id}")
-        match["decision_status"] = args.status
-        match["decision_date"] = date.today().isoformat()
-        match["decision_note"] = args.note
-        save(fields, rows)
-        print(f"{match['poe_id']}: {args.status}")
+        if args.command == "set-feature":
+            match[args.feature] = args.state
+            save(fields, rows)
+            print(f"{match['poe_id']} {args.feature}: {args.state}")
+        else:
+            match["decision_status"] = args.status
+            match["decision_date"] = date.today().isoformat()
+            match["decision_note"] = args.note
+            save(fields, rows)
+            print(f"{match['poe_id']}: {args.status}")
 
 
 if __name__ == "__main__":
