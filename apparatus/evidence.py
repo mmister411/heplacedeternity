@@ -162,6 +162,9 @@ def main(argv=None):
     parser.add_argument("--store", type=Path, default=DEFAULT_STORE, help="JSONL evidence store")
     commands = parser.add_subparsers(dest="command", required=True)
     commands.add_parser("check", help="Validate evidence and author-review/source links")
+    inherited = commands.add_parser("inherited", help="Project vetted historical observations without duplicating their records")
+    inherited.add_argument("--poe", help="Accepted POE to inspect")
+    inherited.add_argument("--summary", action="store_true", help="Show counts instead of individual observations")
     listing = commands.add_parser("list", help="Show records, optionally for a POE")
     listing.add_argument("--poe", help="Filter scenes, observations, and relations by POE")
     scene = commands.add_parser("scene", help="Record a coherent scene in an accepted VOE")
@@ -187,6 +190,34 @@ def main(argv=None):
     args = parser.parse_args(argv)
 
     try:
+        if args.command == "inherited":
+            # The existing curated seed remains authoritative. This projection
+            # revalidates every source anchor and emits no duplicate stored data.
+            from build_phenomena_register import read_curated
+            inherited = read_curated()
+            if args.poe and args.poe not in poe_index(ROOT):
+                raise ValueError(f"Unknown POE: {args.poe}")
+            inherited = [item for item in inherited
+                         if not args.poe or item["poe_id"] == args.poe]
+            if args.summary:
+                from collections import Counter
+                counts = Counter(item["poe_id"] for item in inherited)
+                for poe_id in sorted(counts):
+                    print(f"{poe_id}\\t{counts[poe_id]}")
+                print(f"Source-anchored inherited observations: {len(inherited)}")
+            else:
+                for item in inherited:
+                    print(json.dumps({
+                        "legacy_id": item["id"], "poe_id": item["poe_id"],
+                        "source_unit": item["source_id"],
+                        "source": "testimonies/_intake/Experiences_1.txt",
+                        "line": item["source_line"],
+                        "aspect": item["lemma"],
+                        "description": item["reported_properties"],
+                        "mode": item["evidence_mode_label"],
+                        "category": item["category_label"],
+                    }, ensure_ascii=False))
+            return 0
         if args.command in {"check", "list"}:
             records = read_store(args.store)
             by_id = validate(records, ROOT)

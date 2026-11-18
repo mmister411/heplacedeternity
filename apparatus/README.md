@@ -36,6 +36,19 @@ python apparatus/evidence.py relate --subject OBSERVATION_ID --predicate "resemb
 
 The store is append-only through the CLI. Review entries and source passages before committing them. A future editorial correction should preserve the superseded claim's history rather than silently change what a witness was reported to say.
 
+## Corpus crosswalk and reconstructed passages
+
+The inherited, source-verified observations remain in `atlas_phenomena_seed.tsv`; they are **not** bulk-copied into the new evidence store. To inspect the complete accepted corpus in the location-neutral form, run:
+
+```sh
+python apparatus/evidence.py inherited --summary
+python apparatus/evidence.py inherited --poe POE-000006
+```
+
+This command revalidates the original compilation anchors and projects their witness-specific descriptions without creating another authoritative file. The existing `atlas_motif_families.tsv` remains the authoritative curated motif membership record.
+
+`evidence.jsonl` contains an initial set of bounded, cited passages across the accepted corpus, with selected observations linked back through `legacy_ref` and cross-VOE relationships explicitly marked as analytical inference. Its `scope` labels make clear that a bounded passage does **not** establish an independent experience boundary. These records are **not** a claim of exhaustive scene segmentation or an automatically fused geography. The source work `POE-000006` contains repeated excursions in a multi-chapter work; its chapter headings are not automatically POE boundaries.
+
 ## Earlier Perdition research
 
 The working records below are retained from the earlier Perdition-focused extraction. Their observations and categories keep that scope; they are not a generic taxonomy of Eternal Life. They have **not** been auto-migrated into scene records because the older extraction does not establish source-grounded scene boundaries.
