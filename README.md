@@ -11,4 +11,4 @@ He Placed Eternity: Atlas of Eternal Life
 
 - [Testimony collection](testimonies/): acquired accounts, versions, and discovery leads.
 - [POE register](poe_register.tsv): author review before an experience is eligible for analysis.
-- [Research apparatus](apparatus/): source-grounded observations and taxonomy, including earlier Perdition-focused work.
+- [Research apparatus](apparatus/): shared scene-based evidence and comparisons for accepted VOEs, with earlier Perdition-focused research preserved separately.
