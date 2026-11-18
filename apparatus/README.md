@@ -1,4 +1,6 @@
-# Atlas of Perdition — apparatus
+# Shared research apparatus
+
+The POE review and source collection serve both Atlases. The working records below are retained from the earlier Perdition-focused extraction. Their observations and categories keep that scope; they are not a generic taxonomy of Eternal Life. Accepted VOEs remain the input to further source-grounded analysis.
 
 ## Working data
 

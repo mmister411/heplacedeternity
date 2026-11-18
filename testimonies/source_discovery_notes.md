@@ -38,7 +38,7 @@ Current testimony and Atlas dispositions are recorded in the [Testimony Tracker]
 
 ## POE review
 
-The [master POE register](../../poe_register.tsv) records the author's decision on each reported experience. Discovery leads remain leads until the underlying experience is identified and reviewed. An acquired source, edition, or transcript does not become a separate POE merely because it is a separate artifact.
+The [master POE register](../poe_register.tsv) records the author's decision on each reported experience. Discovery leads remain leads until the underlying experience is identified and reviewed. An acquired source, edition, or transcript does not become a separate POE merely because it is a separate artifact.
 
 The fields `atlas_aim_score`, `atlas_inclusion_decision`, and `atlas_author_approval_status` in the historical discovery register reflect an earlier screening process. They are retained as historical data and do not govern current VOE eligibility. The accepted VOEs and any subsequent source-grounded observations are keyed to the POE register.
 
