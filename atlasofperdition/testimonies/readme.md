@@ -6,6 +6,8 @@ This area will collect files and maybe folders regarding collection of visions, 
 
 The collection is organized by **person → distinct reported experience → textual or recorded account/version**. Multiple tellings or translations of one experience are source versions, not new experiences.
 
+A source document can be acquired before its reported experiences are separated. In that case, its `experience_id` remains blank in the source-copy register until the mapping is established.
+
 ## Source discovery
 
 - [Local source-copy register](source_copy_register.tsv): Retrieved PDFs and Markdown conversions, with URLs, byte counts, and checksums.

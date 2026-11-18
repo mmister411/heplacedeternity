@@ -98,6 +98,7 @@ def audit_intake(rows):
     by_id.update({r["legacy_id"]: r["poe_id"] for r in rows if r["legacy_id"]})
     copies = {r["poe_id"]: [] for r in rows}
     compilations = {r["poe_id"]: [] for r in rows}
+    unassigned = []
     errors = []
     with SOURCE_COPY_REGISTER.open(newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="\t")
@@ -111,6 +112,9 @@ def audit_intake(rows):
                 errors.append(f"Duplicate source artifact: {artifact}")
             seen_artifacts.add(artifact)
             if not verified_copy(artifact, source["repository_copy"], source["sha256"], errors, source["bytes"]):
+                continue
+            if not source["experience_id"].strip():
+                unassigned.append(artifact)
                 continue
             for experience_id in source["experience_id"].split("|"):
                 poe_id = by_id.get(experience_id)
@@ -152,7 +156,7 @@ def audit_intake(rows):
     with_copies = sum(bool(found) for found in copies.values())
     compiled_only = sum(not copies[key] and bool(compilations[key]) for key in copies)
     missing = len(rows) - with_copies - compiled_only
-    print(f"Intake: {with_copies} source-copy, {compiled_only} compilation-only, {missing} without documents; {len(errors)} source errors")
+    print(f"Intake: {with_copies} source-copy, {compiled_only} compilation-only, {missing} without documents; {len(unassigned)} unassigned sources; {len(errors)} source errors")
     for error in errors:
         print(f"ERROR: {error}")
     if errors:

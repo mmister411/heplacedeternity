@@ -4,7 +4,7 @@
 **Date:** 16 November 2026  
 **Scope:** The 59-entry names list supplied by the collector, beginning with Earthquake Kelley and ending with Yong Thang.
 
-This directory contains a preliminary source-discovery register, not newly ingested Atlas phenomena and not a set of redistributed testimonies. Source titles and linked pages are leads for further examination. A web search match does not independently establish a witness's identity, the authority or completeness of a transcription, a reported experience, or permission to publish a copy.
+This directory contains a preliminary source-discovery register, not newly ingested Atlas phenomena. Source titles and linked pages are leads for further examination. A web search match does not establish a witness's identity, the extent of a transcription, or the boundaries of a reported experience.
 
 ## Results of the first discovery pass
 
@@ -25,7 +25,7 @@ The topic or relevance field is only a triage cue derived from a linked title, s
 - `John Bunyan` links to historical visionary literature; authorship, genre, and text history need evaluation before it becomes an eyewitness category.
 - `Maurice S. Rawlings` is represented by a book about near-death experiences; preserve his role as an author/collector of cases unless a direct personal experience is established.
 - `Todd Burpo` is linked to a parental retelling of a child's experience. Do not silently attribute the child's reported observations to the father.
-- Linked compilations and mirrors do not by themselves establish independent transmission or permission to republish.
+- Linked compilations and mirrors can supply testimony texts; they do not establish an additional witness or experience.
 - Original language, translation, publication, and provenance fields can remain unknown. Unpublished status does not prevent source preservation or analysis.
 
 ## What is committed
@@ -41,3 +41,5 @@ Current testimony and Atlas dispositions are recorded in the [Testimony Tracker]
 The [master POE register](../../poe_register.tsv) records the author's decision on each reported experience. Discovery leads remain leads until the underlying experience is identified and reviewed. An acquired source, edition, or transcript does not become a separate POE merely because it is a separate artifact.
 
 The fields `atlas_aim_score`, `atlas_inclusion_decision`, and `atlas_author_approval_status` in the historical discovery register reflect an earlier screening process. They are retained as historical data and do not govern current VOE eligibility. The accepted VOEs and any subsequent source-grounded observations are keyed to the POE register.
+
+The historical `text_republication_rights` column is not an intake, POE review, or analysis gate. Acquiring a testimony copy in the repository records a source; it does not make a formal publication determination.
