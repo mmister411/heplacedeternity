@@ -8,7 +8,7 @@
 - `Atlas_of_Perdition_Second_Order_Index.tsv`: generated subclass assignments.
 - `atlas_second_order.py`: curated subclass codebook and assignments.
 
-The scene inventory, corpus survey, and evidence audits contain additional contextual findings. Retain them until their unique findings are incorporated and checked. The inclusion-criteria document records an earlier procedure; current POE decisions are held in the root `poe_register.tsv`.
+The scene inventory, corpus survey, and evidence audits contain additional contextual findings. Retain them until their unique findings are incorporated and checked. Current POE decisions are held in the root `poe_register.tsv`.
 
 ## Regeneration
 
