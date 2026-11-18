@@ -19,3 +19,5 @@ The collection is organized by **person → distinct reported experience → tex
 ## Tracking
 
 The [testimony tracker](testimony_tracker.md) records collected material, previously processed corpus units, author permissions for further processing, and later Atlas decisions.
+
+Run `python poe_registry.py intake` from the repository root to check each POE against acquired source copies and the original collector-supplied compilation, verifying their checksums. `incomplete_no_document` means no testimony document is on hand. `compilation_only` means the collector's testimony excerpt is archived but no separate source copy has been acquired. Document possession does not establish whether a telling is complete; [source notes](source_manifest.tsv) retain edition and scope information.
