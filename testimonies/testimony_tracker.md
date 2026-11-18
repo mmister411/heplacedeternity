@@ -17,8 +17,8 @@ The [matching-edition register](edition_match_register.md) identifies published 
 | Reported feature | A being, place, structure, implement, action, condition, sensory quality, speech, transition, or other feature within one account scene. | Assign a source-local observation ID |
 | Motif or type | A recurring feature category used to connect observations across accounts without treating them as the same occurrence. | Link related observations by motif ID |
 | Relation | A source-anchored connection among records or described elements. | A scene describes a passageway leading to a chamber |
-| Processing authorization | The author's permission to perform specified analysis on identified collected material. | Record scope, date, and reference when granted |
-| Atlas decision | The author's decision concerning specified passages, scenes, or phenomena, including the exact approved scope. | Assign a decision ID when made |
+| Historical processing authorization | Earlier procedure for documenting permission to analyze a selected scope; superseded by POE author review for current work. | Prior author approval record, if any |
+| Atlas decision | Historical manuscript-level decision about specific passages, scenes, or phenomena; distinct from POE eligibility. | Earlier decision record, if any |
 
 These record types connect in several directions:
 
@@ -62,7 +62,7 @@ New predicates may be added without changing the record classes. Distinguish a r
 
 ## Previously processed corpus units
 
-The [Corpus Survey](../apparatus/Atlas_of_Perdition_Corpus_Survey.md) identifies 16 working text units from 13 named witnesses. The [phenomena seed](../apparatus/atlas_phenomena_seed.tsv) contains 426 records indexed to those units. The line ranges refer to the working compilation `Pasted text(20261116-025409).txt`, which is not stored in this repository.
+The [Corpus Survey](../apparatus/Atlas_of_Perdition_Corpus_Survey.md) identifies 16 working text units from 13 named witnesses. The [phenomena seed](../apparatus/atlas_phenomena_seed.tsv) contains 426 records indexed to those units. The line ranges refer to the original collector compilation, now archived as [`_intake/Experiences_1.txt`](_intake/Experiences_1.txt). The older working filename `Pasted text(20261116-025409).txt` is retained only for historical context.
 
 | Unit ID | Witness or account | Compilation lines | Phenomena | Experience boundary | Collection record or archived text |
 |---|---|---|---:|---|---|
@@ -109,16 +109,11 @@ This table records existing apparatus work. The four separately archived Zambran
 
 Each experience folder records the witness, historical corpus anchor, full compilation extract, account versions, and source links. The four Zambrano folders also hold separately archived published English texts and account outlines. New tellings of an existing experience are added as accounts under the same experience ID. Scene, observation, and motif records are created as their source passages are indexed.
 
-## Collection and processing
+## Collection and processing — current procedure
 
-Collection is open to potential valid optasiological events (VOEs), including dreams, visions, near-death accounts, reports of resuscitation or resurrection, recorded prophecy, and other encounters. Collection includes locating sources, preserving permitted copies, identifying witnesses and account versions, and recording provenance. Collection requires no processing authorization.
+Collection is open to prospective optasiological events (POEs), including reported dreams, visions, near-death experiences, resuscitations or resurrections, prophecies, and other encounters. Acquisition and preservation do not require POE approval. The author alone decides `valid` or `unusable` in the [master POE register](../poe_register.tsv); `pending` material may still be collected and assessed for source provenance and location.
 
-**Processing requires the Atlas author's approval for a named scope.** Processing means close reading, scene segmentation, formal claim or phenomenon extraction, AIM assessment, motif mapping, cross-witness synthesis, or adding material to the analytical apparatus. Approval can cover one passage, account, experience, person, or another clearly stated selection. A collected transcript does not enter processing automatically.
-
-| Processing authorization ID | Material and version(s) covered | Decision | Authorized operations | Author instruction / date |
-|---|---|---|---|---|
-
-The 16 corpus units above were processed previously. This tracker begins recording new processing authorizations as they occur.
+A `valid` author decision permits source-grounded scene analysis, phenomenon extraction, motif comparison, and synthesis for that VOE. The historical requirement for separate per-passage or per-operation processing authorization is superseded; it is not a second gate. Earlier analysis, approvals, and screening fields remain historical records. The root [agent charter](../AGENTS.md) states the current working method.
 
 ## POE review and subsequent extraction
 
