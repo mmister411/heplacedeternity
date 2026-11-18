@@ -36,21 +36,8 @@ Current testimony and Atlas dispositions are recorded in the [Testimony Tracker]
 
 **Collection holdings (17 November 2026):** Four Angelica Zambrano English published texts, including the explicitly partial fourth telling, are archived in [her witness folder](angelica-zambrano/readme.md). All sixteen historical corpus units now also have complete verbatim excerpts from the collector's supplied compilation, with [line spans and checksums](compilation_provenance.md); see the [source manifest](source_manifest.tsv) and [person collections](readme.md). External full-text, media, and publication leads remain separately linked.
 
-## Atlas inclusion is a separate decision
+## POE review
 
-The [Atlas Inclusion Measure](../apparatus/Atlas_of_Perdition_Inclusion_Criteria.md) scores **infernal descriptive yield** at the passage/scene level on `0–4` or `U` for unassessed. It does not score whether a transcript, audio file, or licensed copy is already on hand. Score **3–4** supports a recommendation only. **Actual Atlas inclusion requires explicit approval by the Atlas author/user**, in addition to an attributable source anchor. Neither a high score nor possession of a transcript confers that approval.
+The [master POE register](../../poe_register.tsv) records the author's decision on each reported experience. Discovery leads remain leads until the underlying experience is identified and reviewed. An acquired source, edition, or transcript does not become a separate POE merely because it is a separate artifact.
 
-Every prospect in this discovery register is currently `U`. The two already-ingested witnesses retain their existing records and are marked `legacy_ingested_unscored` pending retrospective assessment. Search-result topic hints in this register are **not** AIM scores. The new approval fields remain `not_requested` for newly discovered prospects. The two pre-existing corpus names carry `pre_protocol_not_recorded`: this reports that a decision under the newly established approval protocol has not been documented, without changing their existing records.
-
-## Collection and further processing
-
-1. Open the linked source and identify the actual speaker, title, format, and account boundaries.
-2. Record apparent subjects from the source information available. Potential VOE accounts may be collected regardless of their connection to Perdition.
-3. Preserve a permitted source artifact and record the origin, its language or version when known, and its degree of mediation (direct testimony, transcript, translation, summary, interview).
-4. Record the Atlas author's approval to process the specified testimony material in the [testimony tracker](testimony_tracker.md).
-5. Within the approved processing scope, segment narrative units and extract source-anchored claims with the established knowledge modes.
-6. Assign stable identifiers without renumbering existing Atlas records; classify phenomena and examine cross-witness motifs.
-7. Prepare any proposed Atlas inclusion separately for the author's approval; do not add material to the Atlas register before that decision.
-8. After Atlas approval, validate indexes and record the precise approved scope and remaining source questions.
-
-**Original first-pass status:** source discovery only. **Later testimony collection:** four Zambrano English texts archived, sixteen source-unit compilation extracts archived and external editions separately linked. **Phenomena added to Atlas from these intakes:** zero. **Existing 426 Atlas records changed:** zero.
+The fields `atlas_aim_score`, `atlas_inclusion_decision`, and `atlas_author_approval_status` in the historical discovery register reflect an earlier screening process. They are retained as historical data and do not govern current VOE eligibility. The accepted VOEs and any subsequent source-grounded observations are keyed to the POE register.
