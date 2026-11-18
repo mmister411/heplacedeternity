@@ -122,6 +122,6 @@ The 16 corpus units above were processed previously. This tracker begins recordi
 
 ## POE review and subsequent extraction
 
-The root [POE register](../../poe_register.tsv) identifies reported experiences and records the author's decisions: `pending`, `valid`, or `unusable`. The collection retains source copies and versions separately. Accepted VOEs may be examined for reported phenomena, speech, conditions, and relationships, retaining source anchors and distinctions among witnesses and accounts.
+The root [POE register](../poe_register.tsv) identifies reported experiences and records the author's decisions: `pending`, `valid`, or `unusable`. The collection retains source copies and versions separately. Accepted VOEs may be examined for reported phenomena, speech, conditions, and relationships, retaining source anchors and distinctions among witnesses and accounts.
 
 The discovery register and historical extraction identifiers remain available for provenance. Their legacy assessment and approval fields describe the earlier research procedure; they do not supersede POE status or require a second admission decision.

@@ -15,7 +15,7 @@ from atlas_sift import SECTIONS, SOURCE
 
 ROOT = Path(__file__).resolve().parent
 SEED = ROOT / "atlas_phenomena_seed.tsv"
-POE_REGISTER = ROOT.parent.parent / "poe_register.tsv"
+POE_REGISTER = ROOT.parent / "poe_register.tsv"
 JSONL = ROOT / "Atlas_of_Perdition_Phenomena_Register.jsonl"
 REPORT = ROOT / "Atlas_of_Perdition_Phenomena_Register.md"
 MOTIF_SEED = ROOT / "atlas_motif_families.tsv"

@@ -6,3 +6,9 @@ He Placed Eternity is a trilogy investigating the realities of salvation, perdit
 He Placed Eternity: Mechanics, Margins and Majesty of Salvation
 He Placed Eternity: Atlas of Perdition
 He Placed Eternity: Atlas of Eternal Life
+
+## Shared records
+
+- [Testimony collection](testimonies/): acquired accounts, versions, and discovery leads.
+- [POE register](poe_register.tsv): author review before an experience is eligible for analysis.
+- [Research apparatus](apparatus/): source-grounded observations and taxonomy, including earlier Perdition-focused work.

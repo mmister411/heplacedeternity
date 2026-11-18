@@ -22,7 +22,7 @@ import re
 
 ROOT = Path(__file__).resolve().parent
 REGISTER = ROOT / "poe_register.tsv"
-SOURCE_COPY_REGISTER = ROOT / "atlasofperdition" / "testimonies" / "source_copy_register.tsv"
+SOURCE_COPY_REGISTER = ROOT / "testimonies" / "source_copy_register.tsv"
 TESTIMONY_ROOT = SOURCE_COPY_REGISTER.parent
 SOURCE_MANIFEST = TESTIMONY_ROOT / "source_manifest.tsv"
 STATUSES = {"pending", "valid", "unusable"}
